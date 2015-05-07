@@ -1,0 +1,33 @@
+%nprocshared=8
+%mem=8GB
+%chk=os2cl8-stable.chk
+#opt b3lyp/genecp pop=full
+
+Title Card Required
+
+-1 1
+ Os                -0.00    0.00    0.000
+ Os                 0.00    0.0    2.24015797
+ Cl                 1.57    1.57    2.782
+ Cl                 1.57   -1.57    2.782
+ Cl                -1.570    1.57    2.782
+ Cl                -1.57   -1.57    2.782
+ Cl                 1.57    1.57   -0.54
+ Cl                 1.57   -1.57   -0.54
+ Cl                -1.57    1.57   -0.54
+ Cl                -1.57   -1.57   -0.54
+
+ Cl 0
+6-31g**
+****
+Os 0
+LanL2DZ
+****
+
+Os 0
+LanL2DZ
+
+
+
+
+

@@ -1,0 +1,8 @@
+chcooh.xyz
+chcooh-2.xyz
+
+4
+0.1
+10000
+10
+5

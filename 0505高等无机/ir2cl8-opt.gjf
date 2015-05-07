@@ -1,0 +1,33 @@
+%nprocshared=8
+%mem=8GB
+%chk=ir2cl8-stable.chk
+#opt b3lyp/genecp pop=full
+
+Title Card Required
+
+0 1
+ Ir                -0.00    0.00    0.000
+ Ir                 0.00    0.0    2.24015797
+ Cl                 1.57    1.57    2.782
+ Cl                 1.57   -1.57    2.782
+ Cl                -1.570    1.57    2.782
+ Cl                -1.57   -1.57    2.782
+ Cl                 1.57    1.57   -0.54
+ Cl                 1.57   -1.57   -0.54
+ Cl                -1.57    1.57   -0.54
+ Cl                -1.57   -1.57   -0.54
+
+ Cl 0
+6-31g**
+****
+Ir 0
+LanL2DZ
+****
+
+Ir 0
+LanL2DZ
+
+
+
+
+

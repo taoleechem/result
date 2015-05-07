@@ -1,0 +1,351 @@
+ Entering Gaussian System, Link 0=g09
+ Input=mo2cl8-stable.gjf
+ Output=mo2cl8-stable.log
+ Initial command:
+ /usr/g09/l1.exe /scratch/litao/gaussian/Gau-2556.inp -scrdir=/scratch/litao/gaussian/
+ Entering Link 1 = /usr/g09/l1.exe PID=      2557.
+  
+ Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009, Gaussian, Inc.
+                  All Rights Reserved.
+  
+ This is part of the Gaussian(R) 09 program.  It is based on
+ the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
+ the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
+ the Gaussian(R) 94 system (copyright 1995, Gaussian, Inc.),
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+ the Gaussian 90(TM) system (copyright 1990, Gaussian, Inc.),
+ the Gaussian 88(TM) system (copyright 1988, Gaussian, Inc.),
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+ University), and the Gaussian 82(TM) system (copyright 1983,
+ Carnegie Mellon University). Gaussian is a federally registered
+ trademark of Gaussian, Inc.
+  
+ This software contains proprietary and confidential information,
+ including trade secrets, belonging to Gaussian, Inc.
+  
+ This software is provided under written license and may be
+ used, copied, transmitted, or stored only in accord with that
+ written license.
+  
+ The following legend is applicable only to US Government
+ contracts under FAR:
+  
+                    RESTRICTED RIGHTS LEGEND
+  
+ Use, reproduction and disclosure by the US Government is
+ subject to restrictions as set forth in subparagraphs (a)
+ and (c) of the Commercial Computer Software - Restricted
+ Rights clause in FAR 52.227-19.
+  
+ Gaussian, Inc.
+ 340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
+  
+  
+ ---------------------------------------------------------------
+ Warning -- This program may not be used in any manner that
+ competes with the business of Gaussian, Inc. or will provide
+ assistance to any competitor of Gaussian, Inc.  The licensee
+ of this program is prohibited from giving any competitor of
+ Gaussian, Inc. access to this program.  By using this program,
+ the user acknowledges that Gaussian, Inc. is engaged in the
+ business of creating and licensing software in the field of
+ computational chemistry and represents and warrants to the
+ licensee that it is not a competitor of Gaussian, Inc. and that
+ it will not use this program in any manner prohibited above.
+ ---------------------------------------------------------------
+  
+
+ Cite this work as:
+ Gaussian 09, Revision A.01,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, B. Mennucci, 
+ G. A. Petersson, H. Nakatsuji, M. Caricato, X. Li, H. P. Hratchian, 
+ A. F. Izmaylov, J. Bloino, G. Zheng, J. L. Sonnenberg, M. Hada, 
+ M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, 
+ Y. Honda, O. Kitao, H. Nakai, T. Vreven, J. A. Montgomery, Jr., 
+ J. E. Peralta, F. Ogliaro, M. Bearpark, J. J. Heyd, E. Brothers, 
+ K. N. Kudin, V. N. Staroverov, R. Kobayashi, J. Normand, 
+ K. Raghavachari, A. Rendell, J. C. Burant, S. S. Iyengar, J. Tomasi, 
+ M. Cossi, N. Rega, J. M. Millam, M. Klene, J. E. Knox, J. B. Cross, 
+ V. Bakken, C. Adamo, J. Jaramillo, R. Gomperts, R. E. Stratmann, 
+ O. Yazyev, A. J. Austin, R. Cammi, C. Pomelli, J. W. Ochterski, 
+ R. L. Martin, K. Morokuma, V. G. Zakrzewski, G. A. Voth, 
+ P. Salvador, J. J. Dannenberg, S. Dapprich, A. D. Daniels, 
+ O. Farkas, J. B. Foresman, J. V. Ortiz, J. Cioslowski, 
+ and D. J. Fox, Gaussian, Inc., Wallingford CT, 2009.
+ 
+ ******************************************
+ Gaussian 09:  EM64L-G09RevA.01  8-May-2009
+                 5-May-2015 
+ ******************************************
+ %nprocshared=8
+ Will use up to    8 processors via shared memory.
+ %mem=8GB
+ %chk=mo2cl8-stable.chk
+ ------------------------
+ #p b3lyp/genecp pop=full
+ ------------------------
+ 1/38=1/1;
+ 2/12=2,17=6,18=5,40=1/2;
+ 3/5=7,11=2,16=1,17=8,25=1,30=1,74=-5/1,2,3;
+ 4//1;
+ 5/5=2,38=5/2;
+ 6/7=3,28=1/1;
+ 99/5=1,9=1/99;
+ Leave Link    1 at Tue May  5 12:47:28 2015, MaxMem= 1073741824 cpu:       0.2
+ (Enter /usr/g09/l101.exe)
+ -------------------
+ Title Card Required
+ -------------------
+ Symbolic Z-matrix:
+ Charge = -2 Multiplicity = 1
+ Mo                    0.        0.        0. 
+ Mo                    0.        0.        2.24016 
+ Cl                    1.57      1.57      2.782 
+ Cl                    1.57     -1.57      2.782 
+ Cl                   -1.57      1.57      2.782 
+ Cl                   -1.57     -1.57      2.782 
+ Cl                    1.57      1.57     -0.54 
+ Cl                    1.57     -1.57     -0.54 
+ Cl                   -1.57      1.57     -0.54 
+ Cl                   -1.57     -1.57     -0.54 
+ 
+ NAtoms=     10 NQM=     10 NQMF=      0 NMic=      0 NMicF=      0 NTot=     10.
+                    Isotopes and Nuclear Properties:
+ (Nuclear quadrupole moments (NQMom) in fm**2, nuclear magnetic moments (NMagM)
+  in nuclear magnetons)
+
+  Atom         1           2           3           4           5           6           7           8           9          10
+ IAtWgt=          98          98          35          35          35          35          35          35          35          35
+ AtmWgt=  97.9055000  97.9055000  34.9688527  34.9688527  34.9688527  34.9688527  34.9688527  34.9688527  34.9688527  34.9688527
+ NucSpn=           0           0           3           3           3           3           3           3           3           3
+ AtZEff=   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000
+ NQMom=    0.0000000   0.0000000  -8.1650000  -8.1650000  -8.1650000  -8.1650000  -8.1650000  -8.1650000  -8.1650000  -8.1650000
+ NMagM=    0.0000000   0.0000000   0.8218740   0.8218740   0.8218740   0.8218740   0.8218740   0.8218740   0.8218740   0.8218740
+ Leave Link  101 at Tue May  5 12:47:28 2015, MaxMem= 1073741824 cpu:       0.2
+ (Enter /usr/g09/l202.exe)
+                          Input orientation:                          
+ ---------------------------------------------------------------------
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+ Number     Number       Type             X           Y           Z
+ ---------------------------------------------------------------------
+      1         42           0        0.000000    0.000000    0.000000
+      2         42           0        0.000000    0.000000    2.240158
+      3         17           0        1.570000    1.570000    2.782000
+      4         17           0        1.570000   -1.570000    2.782000
+      5         17           0       -1.570000    1.570000    2.782000
+      6         17           0       -1.570000   -1.570000    2.782000
+      7         17           0        1.570000    1.570000   -0.540000
+      8         17           0        1.570000   -1.570000   -0.540000
+      9         17           0       -1.570000    1.570000   -0.540000
+     10         17           0       -1.570000   -1.570000   -0.540000
+ ---------------------------------------------------------------------
+                    Distance matrix (angstroms):
+                    1          2          3          4          5
+     1  Mo   0.000000
+     2  Mo   2.240158   0.000000
+     3  Cl   3.559399   2.285474   0.000000
+     4  Cl   3.559399   2.285474   3.140000   0.000000
+     5  Cl   3.559399   2.285474   3.140000   4.440631   0.000000
+     6  Cl   3.559399   2.285474   4.440631   3.140000   3.140000
+     7  Cl   2.285038   3.557960   3.322000   4.571136   4.571136
+     8  Cl   2.285038   3.557960   4.571136   3.322000   5.545709
+     9  Cl   2.285038   3.557960   4.571136   5.545709   3.322000
+    10  Cl   2.285038   3.557960   5.545709   4.571136   4.571136
+                    6          7          8          9         10
+     6  Cl   0.000000
+     7  Cl   5.545709   0.000000
+     8  Cl   4.571136   3.140000   0.000000
+     9  Cl   4.571136   3.140000   4.440631   0.000000
+    10  Cl   3.322000   4.440631   3.140000   3.140000   0.000000
+ Stoichiometry    Cl8Mo2(2-)
+ Framework group  C4V[C4(MoMo),2SGV(Cl4)]
+ Deg. of freedom     5
+ Full point group                 C4V     NOp   8
+ Largest Abelian subgroup         C2V     NOp   4
+ Largest concise Abelian subgroup C2V     NOp   4
+                         Standard orientation:                         
+ ---------------------------------------------------------------------
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+ Number     Number       Type             X           Y           Z
+ ---------------------------------------------------------------------
+      1         42           0        0.000000    0.000000    1.120648
+      2         42           0        0.000000    0.000000   -1.119510
+      3         17           0        0.000000    2.220315   -1.661352
+      4         17           0       -2.220315    0.000000   -1.661352
+      5         17           0        2.220315    0.000000   -1.661352
+      6         17           0        0.000000   -2.220315   -1.661352
+      7         17           0        0.000000    2.220315    1.660648
+      8         17           0       -2.220315    0.000000    1.660648
+      9         17           0        2.220315    0.000000    1.660648
+     10         17           0        0.000000   -2.220315    1.660648
+ ---------------------------------------------------------------------
+ Rotational constants (GHZ):      0.3664515      0.2960578      0.2960578
+ Leave Link  202 at Tue May  5 12:47:28 2015, MaxMem= 1073741824 cpu:       0.1
+ (Enter /usr/g09/l301.exe)
+ General basis read from cards:  (5D, 7F)
+ Centers:   3  4  5  6  7  8  9 10
+ 6-31g**
+ ****
+ Centers:   1  2
+ LanL2DZ
+ ****
+ Ernie: Thresh=  0.10000D-02 Tol=  0.10000D-05 Strict=F.
+ Ernie:  2 primitive shells out of 172 were deleted.
+ ======================================================================================================
+                                       Pseudopotential Parameters
+ ======================================================================================================
+  Center     Atomic      Valence      Angular      Power
+  Number     Number     Electrons     Momentum     of R      Exponent        Coefficient   SO-Coeffient
+ ======================================================================================================
+    1         42           14
+                                      F and up 
+                                                     0      537.9667807       -0.04694920    0.00000000
+                                                     1      147.8982938      -20.20800840    0.00000000
+                                                     2       45.7358898     -106.21163020    0.00000000
+                                                     2       13.2911467      -41.81073680    0.00000000
+                                                     2        4.7059961       -4.20541030    0.00000000
+                                      S - F
+                                                     0      110.2991760        2.80637170    0.00000000
+                                                     1       23.2014645       44.51620120    0.00000000
+                                                     2        5.3530131       82.77852270    0.00000000
+                                      P - F
+                                                     0       63.2901397        4.94208760    0.00000000
+                                                     1       23.3315302       25.86049760    0.00000000
+                                                     2       24.6759423      132.47087420    0.00000000
+                                                     2        4.6493040       57.31497940    0.00000000
+                                      D - F
+                                                     0      104.4839977        3.00545910    0.00000000
+                                                     1       66.2307245       26.36378510    0.00000000
+                                                     2       39.1283176      183.38491990    0.00000000
+                                                     2       13.1164437       98.44530680    0.00000000
+                                                     2        3.6280263       22.49013770    0.00000000
+    2         42           14
+                                      F and up 
+                                                     0      537.9667807       -0.04694920    0.00000000
+                                                     1      147.8982938      -20.20800840    0.00000000
+                                                     2       45.7358898     -106.21163020    0.00000000
+                                                     2       13.2911467      -41.81073680    0.00000000
+                                                     2        4.7059961       -4.20541030    0.00000000
+                                      S - F
+                                                     0      110.2991760        2.80637170    0.00000000
+                                                     1       23.2014645       44.51620120    0.00000000
+                                                     2        5.3530131       82.77852270    0.00000000
+                                      P - F
+                                                     0       63.2901397        4.94208760    0.00000000
+                                                     1       23.3315302       25.86049760    0.00000000
+                                                     2       24.6759423      132.47087420    0.00000000
+                                                     2        4.6493040       57.31497940    0.00000000
+                                      D - F
+                                                     0      104.4839977        3.00545910    0.00000000
+                                                     1       66.2307245       26.36378510    0.00000000
+                                                     2       39.1283176      183.38491990    0.00000000
+                                                     2       13.1164437       98.44530680    0.00000000
+                                                     2        3.6280263       22.49013770    0.00000000
+    3         17
+                                   No pseudopotential on this center.
+    4         17
+                                   No pseudopotential on this center.
+    5         17
+                                   No pseudopotential on this center.
+    6         17
+                                   No pseudopotential on this center.
+    7         17
+                                   No pseudopotential on this center.
+    8         17
+                                   No pseudopotential on this center.
+    9         17
+                                   No pseudopotential on this center.
+   10         17
+                                   No pseudopotential on this center.
+ ======================================================================================================
+ There are    72 symmetry adapted basis functions of A1  symmetry.
+ There are    24 symmetry adapted basis functions of A2  symmetry.
+ There are    46 symmetry adapted basis functions of B1  symmetry.
+ There are    46 symmetry adapted basis functions of B2  symmetry.
+ Integral buffers will be    131072 words long.
+ Raffenetti 2 integral format.
+ Two-electron integral symmetry is turned on.
+   188 basis functions,   514 primitive gaussians,   200 cartesian basis functions
+    83 alpha electrons       83 beta electrons
+       nuclear repulsion energy      1859.8117169890 Hartrees.
+ IExCor=  402 DFT=T Ex+Corr=B3LYP ExCW=0 ScaHFX=  0.200000
+ ScaDFX=  0.800000  0.720000  1.000000  0.810000 ScalE2=  1.000000  1.000000
+ IRadAn=      0 IRanWt=     -1 IRanGd=            0 ICorTp=0
+ NAtoms=   10 NActive=   10 NUniq=    4 SFac= 3.00D+00 NAtFMM=   80 NAOKFM=F Big=F
+ Leave Link  301 at Tue May  5 12:47:28 2015, MaxMem= 1073741824 cpu:       0.2
+ (Enter /usr/g09/l302.exe)
+ NPDir=0 NMtPBC=     1 NCelOv=     1 NCel=       1 NClECP=     1 NCelD=      1
+         NCelK=      1 NCelE2=     1 NClLst=     1 CellRange=     0.0.
+ One-electron integrals computed using PRISM.
+ One-electron integral symmetry used in STVInt
+   8 Symmetry operations used in ECPInt.
+ ECPInt:  NShTT=    1596 NPrTT=   14825 LenC2=    1481 LenP2D=    9021.
+ LDataN:  DoStor=T MaxTD1= 5 Len=  102
+ NBasis=   188 RedAO= T  NBF=    72    24    46    46
+ NBsUse=   188 1.00D-06 NBFU=    72    24    46    46
+ Precomputing XC quadrature grid using
+ IXCGrd= 2 IRadAn=           0 IRanWt=          -1 IRanGd=           0 AccXCQ= 1.00D-10.
+ Defaulting to unpruned grid for atomic number  42.
+ NRdTot=     628 NPtTot=       99784 NUsed=      104323 NTot=      104355
+ NSgBfM=   200   200   200   200   200 NAtAll=    10    10.
+ Leave Link  302 at Tue May  5 12:47:29 2015, MaxMem= 1073741824 cpu:       2.4
+ (Enter /usr/g09/l303.exe)
+ DipDrv:  MaxL=1.
+ Leave Link  303 at Tue May  5 12:47:29 2015, MaxMem= 1073741824 cpu:       0.3
+ (Enter /usr/g09/l401.exe)
+ Harris functional with IExCor=  402 diagonalized for initial guess.
+ ExpMin= 2.47D-02 ExpMax= 2.52D+04 ExpMxC= 3.78D+03 IAcc=3 IRadAn=         0 AccDes= 0.00D+00
+ HarFok:  IExCor=  402 AccDes= 0.00D+00 IRadAn=         0 IDoV= 1
+ ScaDFX=  1.000000  1.000000  1.000000  1.000000
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ Defaulting to unpruned grid for atomic number  42.
+ FoFCou: FMM=F IPFlag=           0 FMFlag=      100000 FMFlg1=           0
+         NFxFlg=           0 DoJE=T BraDBF=F KetDBF=T FulRan=T
+         Omega=  0.000000  0.000000  1.000000  0.000000  0.000000 ICntrl=     500 IOpCl=  0
+         NMat0=    1 NMatS0=    1 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+         I1Cent=           4 NGrid=           0.
+ Petite list used in FoFCou.
+ Harris En= -3823.58727976191    
+ Initial guess orbital symmetries:
+       Occupied  (E) (E) (B2) (A1) (E) (E) (A1) (B2) (E) (E) (B2)
+                 (E) (E) (A1) (A1) (B2) (B2) (E) (E) (A1) (E) (E)
+                 (A1) (B2) (B2) (A1) (E) (E) (A2) (E) (E) (A1)
+                 (B2) (A2) (E) (E) (B1) (E) (E) (B1) (A1) (A1)
+                 (A1) (E) (E) (E) (E) (A1) (A1) (A1) (B2) (B2)
+                 (E) (E) (E) (E) (A1) (B1) (B1) (B2) (A1) (E) (E)
+                 (A1) (B2) (E) (E) (E) (E) (B2) (A1) (E) (E) (E)
+                 (E) (E) (E) (B2) (A2) (A2) (E) (E) (A1)
+       Virtual   (B1) (B1) (A1) (A1) (E) (E) (A1) (B2) (A1) (E)
+                 (E) (E) (E) (B2) (A1) (E) (E) (A1) (A1) (E) (E)
+                 (A1) (B2) (B1) (B2) (B1) (E) (E) (B2) (B1) (E)
+                 (E) (A1) (E) (E) (E) (E) (E) (E) (A1) (B2) (B1)
+                 (E) (E) (A2) (A1) (E) (E) (A1) (B2) (A2) (E) (E)
+                 (A1) (B2) (B2) (A1) (E) (E) (A1) (E) (E) (B2)
+                 (A2) (B1) (A2) (E) (E) (B1) (B2) (E) (E) (E) (E)
+                 (A1) (E) (E) (A1) (B2) (A2) (E) (E) (A2) (E) (E)
+                 (A1) (A1) (A1) (B2) (E) (E) (B1) (E) (E) (B2)
+                 (B2) (E) (E) (A1) (B1) (E) (E) (B2) (A1) (A1)
+ The electronic state of the initial guess is 1-A1.
+ Leave Link  401 at Tue May  5 12:47:30 2015, MaxMem= 1073741824 cpu:       2.2
+ (Enter /usr/g09/l502.exe)
+ Closed shell SCF:
+ Requested convergence on RMS density matrix=1.00D-08 within 128 cycles.
+ Requested convergence on MAX density matrix=1.00D-06.
+ Requested convergence on             energy=1.00D-06.
+ No special actions if energy rises.
+ Using DIIS extrapolation, IDIIS=  1040.
+ Integral symmetry usage will be decided dynamically.
+       104220 words used for storage of precomputed grid.
+ Keep R1 ints in memory in canonical form, NReq=206321650.
+ IEnd=      246386 IEndB=      246386 NGot=  1073741824 MDV=   871537201
+ LenX=   871537201 LenY=   871496760
+ Symmetry not used in FoFDir.
+ MinBra= 0 MaxBra= 2 Meth= 1.
+ IRaf=       0 NMat=   1 IRICut=       1 DoRegI=T DoRafI=F ISym2E= 0 JSym2E=0.

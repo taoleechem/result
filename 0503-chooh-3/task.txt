@@ -1,0 +1,8 @@
+chooh.xyz
+chooh-2stable.xyz
+
+4
+0.1
+10000
+10
+10
