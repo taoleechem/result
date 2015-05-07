@@ -1,0 +1,3255 @@
+nohup: ignoring input
+##################################################
+#      Welcome to use Molecule Recognition       #
+# Many stable configurations will be produced    #
+##################################################
+H8C4O8
+Atom	x	y	z
+C	2.51925	-1.89425	-1.54693	
+O	1.45999	-2.49438	-1.49173	
+O	2.58008	-0.518707	-1.563	
+H	3.50194	-2.38774	-1.58805	
+H	3.49688	-0.17818	-1.60906	
+C	-1.85105	1.08281	2.31236	
+O	-2.3778	1.29582	3.39714	
+O	-1.28492	-0.120562	1.99256	
+H	-1.78815	1.83197	1.51025	
+H	-0.902156	-0.136849	1.08302	
+C	-0.262521	0.955915	-1.40413	
+O	-0.797939	1.96816	-0.993302	
+O	-0.183853	-0.177382	-0.609135	
+H	0.190561	0.840629	-2.39545	
+H	0.263436	-0.943377	-1.02163	
+C	5.51561	0.084404	0.0251854	
+O	5.22676	0.142015	-1.15739	
+O	4.58038	-0.207737	0.992695	
+H	6.52899	0.257154	0.417769	
+H	4.95736	-0.219075	1.89622	
+
+Mass Center
+       1.275
+-1.84883e-07
+ 2.97625e-07
+
+H2CO2
+Atom	x	y	z
+C	0.142068	-0.386051	-0.106169	
+O	0.875512	0.412436	-0.662698	
+O	-0.909167	0.0165952	0.686832	
+H	0.251921	-1.47806	-0.185872	
+H	-1.40936	-0.734333	1.06699	
+
+Mass Center
+ 2.46574e-07
+-3.35619e-08
+ 1.28382e-07
+
+##################################################
+#      Welcome to use Monte Carlo Gaussian09         #
+# Many first-opt configurations will be produced  #
+##################################################
+No.1 is obtained 
+Energy: -0.00814547
+H8C4O8
+Atom	x	y	z
+C	-1.80216	1.70796	-1.16808	
+O	-2.55644	0.750753	-1.17576	
+O	-0.877543	1.90198	-0.166324	
+H	-1.7926	2.4871	-1.9451	
+H	-0.342276	2.71191	-0.293239	
+C	1.06515	-3.7612	1.00524	
+O	1.71696	-4.78545	0.845093	
+O	0.268371	-3.23502	0.0258748	
+H	1.06382	-3.18209	1.9397	
+H	-0.192256	-2.40849	0.306426	
+C	-0.847989	-0.369769	2.09607	
+O	-0.107442	-0.941116	2.87404	
+O	-1.05373	-0.866708	0.818067	
+H	-1.40145	0.550881	2.31372	
+H	-1.66461	-0.342361	0.262323	
+C	1.64183	3.46499	-1.81349	
+O	0.804103	3.90361	-1.04468	
+O	1.73107	2.12316	-2.10944	
+H	2.38679	4.0892	-2.32954	
+H	2.45064	1.91917	-2.74127	
+
+Mass Center
+-1.56861e-16
+  2.6425e-16
+-1.52034e-16
+
+H2CO2
+Atom	x	y	z
+C	2.22742	0.138455	-0.294997	
+O	2.66668	1.13224	0.256988	
+O	2.62118	-1.1313	0.0638169	
+H	1.49179	0.166209	-1.11291	
+H	2.1851	-1.82966	-0.466023	
+
+Mass Center
+         2.5
+ 6.75708e-17
+-7.23972e-18
+
+Out random rot forbidden!! T is 210
+Out random rot forbidden!! T is 220
+Out random rot forbidden!! T is 230
+Out random rot forbidden!! T is 240
+Out random rot forbidden!! T is 250
+Out random rot forbidden!! T is 260
+Out random rot forbidden!! T is 270
+Out random rot forbidden!! T is 280
+Out random rot forbidden!! T is 290
+Out random rot forbidden!! T is 300
+Out random rot forbidden!! T is 310
+Out random rot forbidden!! T is 320
+Out random rot forbidden!! T is 330
+Out random rot forbidden!! T is 340
+Out random rot forbidden!! T is 350
+Out random rot forbidden!! T is 360
+Out random rot forbidden!! T is 370
+Out random rot forbidden!! T is 380
+Out random rot forbidden!! T is 390
+Out random rot forbidden!! T is 400
+Out random rot forbidden!! T is 410
+Out random rot forbidden!! T is 420
+Out random rot forbidden!! T is 430
+Out random rot forbidden!! T is 440
+Out random rot forbidden!! T is 450
+Out random rot forbidden!! T is 460
+Out random rot forbidden!! T is 470
+Out random rot forbidden!! T is 480
+Out random rot forbidden!! T is 490
+Out random rot forbidden!! T is 500
+Out random rot forbidden!! T is 510
+Out random rot forbidden!! T is 520
+Out random rot forbidden!! T is 530
+Out random rot forbidden!! T is 540
+Out random rot forbidden!! T is 550
+Out random rot forbidden!! T is 560
+Out random rot forbidden!! T is 570
+Out random rot forbidden!! T is 580
+Out random rot forbidden!! T is 590
+Out random rot forbidden!! T is 600
+Out random rot forbidden!! T is 610
+Out random rot forbidden!! T is 620
+Out random rot forbidden!! T is 630
+Out random rot forbidden!! T is 640
+Out random rot forbidden!! T is 650
+Out random rot forbidden!! T is 660
+Out random rot forbidden!! T is 670
+Out random rot forbidden!! T is 680
+Out random rot forbidden!! T is 690
+Out random rot forbidden!! T is 700
+Out random rot forbidden!! T is 710
+Out random rot forbidden!! T is 720
+Out random rot forbidden!! T is 730
+Out random rot forbidden!! T is 740
+Out random rot forbidden!! T is 750
+Out rot permitted!, T is 760
+Enter Step-opt step
+No.1 Relative MinConfig in outer loop and potential is -0.0161682
+No.2 MinConfig in outer loop 
+Energy: -0.0161682
+H8C4O8
+Atom	x	y	z
+C	0.233039	-2.55887	0.962906	
+O	0.121175	-2.05026	2.06474	
+O	-0.413307	-2.05518	-0.143716	
+H	0.848011	-3.44806	0.757797	
+H	-0.229415	-2.56648	-0.958186	
+C	-0.0386314	3.97636	0.691914	
+O	0.476881	5.08703	0.676285	
+O	0.527582	2.91099	1.33633	
+H	-0.990717	3.74171	0.194874	
+H	-0.00703346	2.08505	1.25865	
+C	-2.18398	0.560526	0.406643	
+O	-2.57549	1.58412	-0.121624	
+O	-0.994173	0.540101	1.11833	
+H	-2.70493	-0.403308	0.376216	
+H	-0.758771	-0.325589	1.50838	
+C	1.74902	-2.81936	-2.64247	
+O	0.687864	-3.32937	-2.32772	
+O	2.24563	-1.70832	-1.99823	
+H	2.39229	-3.19339	-3.45316	
+H	3.10596	-1.41122	-2.359	
+
+Mass Center
+-1.39968e-16
+ 5.47806e-16
+ 9.41164e-17
+
+H2CO2
+Atom	x	y	z
+C	3.77677	0.272332	0.172415	
+O	3.99696	0.275093	-1.02623	
+O	2.79132	-0.509294	0.732796	
+H	4.33433	0.881769	0.899469	
+H	2.73051	-0.407441	1.70467	
+
+Mass Center
+        3.5
+2.17192e-17
+1.54447e-16
+
+Out random rot forbidden!! T is 210
+Out random rot forbidden!! T is 220
+Out random rot forbidden!! T is 230
+Out random rot forbidden!! T is 240
+Out random rot forbidden!! T is 250
+Out random rot forbidden!! T is 260
+Out random rot forbidden!! T is 270
+Out random rot forbidden!! T is 280
+Out random rot forbidden!! T is 290
+Out random rot forbidden!! T is 300
+Out random rot forbidden!! T is 310
+Out random rot forbidden!! T is 320
+Out random rot forbidden!! T is 330
+Out random rot forbidden!! T is 340
+Out random rot forbidden!! T is 350
+Out random rot forbidden!! T is 360
+Out random rot forbidden!! T is 370
+Out random rot forbidden!! T is 380
+Out random rot forbidden!! T is 390
+Out random rot forbidden!! T is 400
+Out random rot forbidden!! T is 410
+Out random rot forbidden!! T is 420
+Out random rot forbidden!! T is 430
+Out random rot forbidden!! T is 440
+Out random rot forbidden!! T is 450
+Out random rot forbidden!! T is 460
+Out random rot forbidden!! T is 470
+Out random rot forbidden!! T is 480
+Out random rot forbidden!! T is 490
+Out random rot forbidden!! T is 500
+Out random rot forbidden!! T is 510
+Out random rot forbidden!! T is 520
+Out random rot forbidden!! T is 530
+Out random rot forbidden!! T is 540
+Out random rot forbidden!! T is 550
+Out random rot forbidden!! T is 560
+Out random rot forbidden!! T is 570
+Out random rot forbidden!! T is 580
+Out random rot forbidden!! T is 590
+Out random rot forbidden!! T is 600
+Out random rot forbidden!! T is 610
+Out random rot forbidden!! T is 620
+Out random rot forbidden!! T is 630
+Out random rot forbidden!! T is 640
+Out random rot forbidden!! T is 650
+Out random rot forbidden!! T is 660
+Out random rot forbidden!! T is 670
+Out random rot forbidden!! T is 680
+Out random rot forbidden!! T is 690
+Out random rot forbidden!! T is 700
+Out random rot forbidden!! T is 710
+Out random rot forbidden!! T is 720
+Out random rot forbidden!! T is 730
+Out random rot forbidden!! T is 740
+Out random rot forbidden!! T is 750
+Out random rot forbidden!! T is 760
+Out random rot forbidden!! T is 770
+Out random rot forbidden!! T is 780
+Out random rot forbidden!! T is 790
+Out random rot forbidden!! T is 800
+Out random rot forbidden!! T is 810
+Out random rot forbidden!! T is 820
+Out random rot forbidden!! T is 830
+Out random rot forbidden!! T is 840
+Out random rot forbidden!! T is 850
+Out random rot forbidden!! T is 860
+Out random rot forbidden!! T is 870
+Out random rot forbidden!! T is 880
+Out random rot forbidden!! T is 890
+Out random rot forbidden!! T is 900
+Out random rot forbidden!! T is 910
+Out random rot forbidden!! T is 920
+Out random rot forbidden!! T is 930
+Out random rot forbidden!! T is 940
+Out random rot forbidden!! T is 950
+Out random rot forbidden!! T is 960
+Out random rot forbidden!! T is 970
+Out random rot forbidden!! T is 980
+Out random rot forbidden!! T is 990
+Out random rot forbidden!! T is 1000
+Out random rot forbidden!! T is 1010
+Out random rot forbidden!! T is 1020
+Out random rot forbidden!! T is 1030
+Out random rot forbidden!! T is 1040
+Out random rot forbidden!! T is 1050
+Out random rot forbidden!! T is 1060
+Out random rot forbidden!! T is 1070
+Out random rot forbidden!! T is 1080
+Out random rot forbidden!! T is 1090
+Out random rot forbidden!! T is 1100
+Out random rot forbidden!! T is 1110
+Out random rot forbidden!! T is 1120
+Out random rot forbidden!! T is 1130
+Out random rot forbidden!! T is 1140
+Out random rot forbidden!! T is 1150
+Out random rot forbidden!! T is 1160
+Out random rot forbidden!! T is 1170
+Out random rot forbidden!! T is 1180
+Out random rot forbidden!! T is 1190
+Out random rot forbidden!! T is 1200
+Out random rot forbidden!! T is 1210
+Out random rot forbidden!! T is 1220
+Out random rot forbidden!! T is 1230
+Out random rot forbidden!! T is 1240
+Out random rot forbidden!! T is 1250
+Out random rot forbidden!! T is 1260
+Out random rot forbidden!! T is 1270
+Out random rot forbidden!! T is 1280
+Out random rot forbidden!! T is 1290
+Out random rot forbidden!! T is 1300
+Out random rot forbidden!! T is 1310
+Out random rot forbidden!! T is 1320
+Out random rot forbidden!! T is 1330
+Out random rot forbidden!! T is 1340
+Out random rot forbidden!! T is 1350
+Out random rot forbidden!! T is 1360
+Out random rot forbidden!! T is 1370
+Out random rot forbidden!! T is 1380
+Out random rot forbidden!! T is 1390
+Out random rot forbidden!! T is 1400
+Out random rot forbidden!! T is 1410
+Out random rot forbidden!! T is 1420
+Out random rot forbidden!! T is 1430
+Out random rot forbidden!! T is 1440
+Out random rot forbidden!! T is 1450
+Out random rot forbidden!! T is 1460
+Out random rot forbidden!! T is 1470
+Out random rot forbidden!! T is 1480
+Out random rot forbidden!! T is 1490
+Out random rot forbidden!! T is 1500
+Out random rot forbidden!! T is 1510
+Out random rot forbidden!! T is 1520
+Out random rot forbidden!! T is 1530
+Out random rot forbidden!! T is 1540
+Out random rot forbidden!! T is 1550
+Out random rot forbidden!! T is 1560
+Out random rot forbidden!! T is 1570
+Out random rot forbidden!! T is 1580
+Out random rot forbidden!! T is 1590
+Out random rot forbidden!! T is 1600
+Out random rot forbidden!! T is 1610
+Out random rot forbidden!! T is 1620
+Out random rot forbidden!! T is 1630
+Out random rot forbidden!! T is 1640
+Out random rot forbidden!! T is 1650
+Out random rot forbidden!! T is 1660
+Out random rot forbidden!! T is 1670
+Out random rot forbidden!! T is 1680
+Out random rot forbidden!! T is 1690
+Out random rot forbidden!! T is 1700
+Out random rot forbidden!! T is 1710
+Out random rot forbidden!! T is 1720
+Out random rot forbidden!! T is 1730
+Out random rot forbidden!! T is 1740
+Out random rot forbidden!! T is 1750
+Out random rot forbidden!! T is 1760
+Out random rot forbidden!! T is 1770
+Out random rot forbidden!! T is 1780
+Out random rot forbidden!! T is 1790
+Out random rot forbidden!! T is 1800
+Out random rot forbidden!! T is 1810
+Out random rot forbidden!! T is 1820
+Out random rot forbidden!! T is 1830
+Out random rot forbidden!! T is 1840
+Out random rot forbidden!! T is 1850
+Out random rot forbidden!! T is 1860
+Out random rot forbidden!! T is 1870
+Out random rot forbidden!! T is 1880
+Out random rot forbidden!! T is 1890
+Out random rot forbidden!! T is 1900
+Out random rot forbidden!! T is 1910
+Out random rot forbidden!! T is 1920
+Out random rot forbidden!! T is 1930
+Out random rot forbidden!! T is 1940
+Out random rot forbidden!! T is 1950
+Out random rot forbidden!! T is 1960
+Out random rot forbidden!! T is 1970
+Out random rot forbidden!! T is 1980
+Out random rot forbidden!! T is 1990
+Out random rot forbidden!! T is 2000
+Out random rot forbidden!! T is 2010
+Out random rot forbidden!! T is 2020
+Out random rot forbidden!! T is 2030
+Out random rot forbidden!! T is 2040
+Out random rot forbidden!! T is 2050
+Out random rot forbidden!! T is 2060
+Out random rot forbidden!! T is 2070
+Out random rot forbidden!! T is 2080
+Out rot permitted!, T is 2090
+Enter Step-opt step
+No.2 Relative MinConfig in outer loop and potential is 0.00269601
+Inner rot permitted, Branch T is 2070
+Enter Step-opt step
+No.3 Relative MinConfigNum in inner loop and potential is -0.000179979
+Inner rot permitted, Branch T is 2050
+Enter Step-opt step
+No.4 Relative MinConfigNum in inner loop and potential is 0.000723998
+Inner rot permitted, Branch T is 2030
+Enter Step-opt step
+No.5 Relative MinConfigNum in inner loop and potential is -0.000242842
+Inner rot permitted, Branch T is 2010
+Enter Step-opt step
+No.6 Relative MinConfigNum in inner loop and potential is -0.00813843
+Inner rot forbidden!!, T is 2090
+Out random rot forbidden!! T is 2100
+Out random rot forbidden!! T is 2110
+Out random rot forbidden!! T is 2120
+Out random rot forbidden!! T is 2130
+Out random rot forbidden!! T is 2140
+Out random rot forbidden!! T is 2150
+Out random rot forbidden!! T is 2160
+Out random rot forbidden!! T is 2170
+Out random rot forbidden!! T is 2180
+Out random rot forbidden!! T is 2190
+Out random rot forbidden!! T is 2200
+Out random rot forbidden!! T is 2210
+Out random rot forbidden!! T is 2220
+Out random rot forbidden!! T is 2230
+Out random rot forbidden!! T is 2240
+Out random rot forbidden!! T is 2250
+Out random rot forbidden!! T is 2260
+Out random rot forbidden!! T is 2270
+Out random rot forbidden!! T is 2280
+Out random rot forbidden!! T is 2290
+Out random rot forbidden!! T is 2300
+Out random rot forbidden!! T is 2310
+Out random rot forbidden!! T is 2320
+Out random rot forbidden!! T is 2330
+Out random rot forbidden!! T is 2340
+Out random rot forbidden!! T is 2350
+Out random rot forbidden!! T is 2360
+Out random rot forbidden!! T is 2370
+Out random rot forbidden!! T is 2380
+Out random rot forbidden!! T is 2390
+Out random rot forbidden!! T is 2400
+Out rot permitted!, T is 2410
+Enter Step-opt step
+No.7 Relative MinConfig in outer loop and potential is -0.00343857
+Inner rot permitted, Branch T is 2390
+Enter Step-opt step
+No.8 Relative MinConfigNum in inner loop and potential is -0.014118
+Inner rot forbidden!!, T is 2410
+Out random rot forbidden!! T is 2420
+Out random rot forbidden!! T is 2430
+Out random rot forbidden!! T is 2440
+Out random rot forbidden!! T is 2450
+Out random rot forbidden!! T is 2460
+Out random rot forbidden!! T is 2470
+Out random rot forbidden!! T is 2480
+Out random rot forbidden!! T is 2490
+Out random rot forbidden!! T is 2500
+Out random rot forbidden!! T is 2510
+Out random rot forbidden!! T is 2520
+Out random rot forbidden!! T is 2530
+Out random rot forbidden!! T is 2540
+Out random rot forbidden!! T is 2550
+Out random rot forbidden!! T is 2560
+Out random rot forbidden!! T is 2570
+Out random rot forbidden!! T is 2580
+Out random rot forbidden!! T is 2590
+Out random rot forbidden!! T is 2600
+Out random rot forbidden!! T is 2610
+Out random rot forbidden!! T is 2620
+Out random rot forbidden!! T is 2630
+Out random rot forbidden!! T is 2640
+Out random rot forbidden!! T is 2650
+Out random rot forbidden!! T is 2660
+Out random rot forbidden!! T is 2670
+Out random rot forbidden!! T is 2680
+Out random rot forbidden!! T is 2690
+Out random rot forbidden!! T is 2700
+Out random rot forbidden!! T is 2710
+Out random rot forbidden!! T is 2720
+Out random rot forbidden!! T is 2730
+Out random rot forbidden!! T is 2740
+Out random rot forbidden!! T is 2750
+Out random rot forbidden!! T is 2760
+Out random rot forbidden!! T is 2770
+Out random rot forbidden!! T is 2780
+Out random rot forbidden!! T is 2790
+Out random rot forbidden!! T is 2800
+Out random rot forbidden!! T is 2810
+Out random rot forbidden!! T is 2820
+Out random rot forbidden!! T is 2830
+Out random rot forbidden!! T is 2840
+Out rot permitted!, T is 2850
+Enter Step-opt step
+No.9 Relative MinConfig in outer loop and potential is -0.00369938
+Inner rot forbidden!!, T is 2850
+Out random rot forbidden!! T is 2860
+Out random rot forbidden!! T is 2870
+Out random rot forbidden!! T is 2880
+Out random rot forbidden!! T is 2890
+Out random rot forbidden!! T is 2900
+Out random rot forbidden!! T is 2910
+Out random rot forbidden!! T is 2920
+Out random rot forbidden!! T is 2930
+Out random rot forbidden!! T is 2940
+Out random rot forbidden!! T is 2950
+Out random rot forbidden!! T is 2960
+Out random rot forbidden!! T is 2970
+Out random rot forbidden!! T is 2980
+Out random rot forbidden!! T is 2990
+Out random rot forbidden!! T is 3000
+Out random rot forbidden!! T is 3010
+Out random rot forbidden!! T is 3020
+Out random rot forbidden!! T is 3030
+Out random rot forbidden!! T is 3040
+Out random rot forbidden!! T is 3050
+Out random rot forbidden!! T is 3060
+Out random rot forbidden!! T is 3070
+Out random rot forbidden!! T is 3080
+Out random rot forbidden!! T is 3090
+Out random rot forbidden!! T is 3100
+Out random rot forbidden!! T is 3110
+Out random rot forbidden!! T is 3120
+Out random rot forbidden!! T is 3130
+Out random rot forbidden!! T is 3140
+Out random rot forbidden!! T is 3150
+Out random rot forbidden!! T is 3160
+Out random rot forbidden!! T is 3170
+Out random rot forbidden!! T is 3180
+Out random rot forbidden!! T is 3190
+Out random rot forbidden!! T is 3200
+Out random rot forbidden!! T is 3210
+Out random rot forbidden!! T is 3220
+Out random rot forbidden!! T is 3230
+Out random rot forbidden!! T is 3240
+Out random rot forbidden!! T is 3250
+Out random rot forbidden!! T is 3260
+Out random rot forbidden!! T is 3270
+Out random rot forbidden!! T is 3280
+Out random rot forbidden!! T is 3290
+Out random rot forbidden!! T is 3300
+Out random rot forbidden!! T is 3310
+Out random rot forbidden!! T is 3320
+Out random rot forbidden!! T is 3330
+Out random rot forbidden!! T is 3340
+Out random rot forbidden!! T is 3350
+Out random rot forbidden!! T is 3360
+Out random rot forbidden!! T is 3370
+Out random rot forbidden!! T is 3380
+Out random rot forbidden!! T is 3390
+Out random rot forbidden!! T is 3400
+Out random rot forbidden!! T is 3410
+Out random rot forbidden!! T is 3420
+Out random rot forbidden!! T is 3430
+Out random rot forbidden!! T is 3440
+Out random rot forbidden!! T is 3450
+Out random rot forbidden!! T is 3460
+Out random rot forbidden!! T is 3470
+Out random rot forbidden!! T is 3480
+Out random rot forbidden!! T is 3490
+Out random rot forbidden!! T is 3500
+Out random rot forbidden!! T is 3510
+Out random rot forbidden!! T is 3520
+Out random rot forbidden!! T is 3530
+Out random rot forbidden!! T is 3540
+Out random rot forbidden!! T is 3550
+Out random rot forbidden!! T is 3560
+Out random rot forbidden!! T is 3570
+Out random rot forbidden!! T is 3580
+Out random rot forbidden!! T is 3590
+Out random rot forbidden!! T is 3600
+Out random rot forbidden!! T is 3610
+Out random rot forbidden!! T is 3620
+Out random rot forbidden!! T is 3630
+Out random rot forbidden!! T is 3640
+Out random rot forbidden!! T is 3650
+Out random rot forbidden!! T is 3660
+Out random rot forbidden!! T is 3670
+Out random rot forbidden!! T is 3680
+Out random rot forbidden!! T is 3690
+Out random rot forbidden!! T is 3700
+Out random rot forbidden!! T is 3710
+Out random rot forbidden!! T is 3720
+Out random rot forbidden!! T is 3730
+Out random rot forbidden!! T is 3740
+Out random rot forbidden!! T is 3750
+Out random rot forbidden!! T is 3760
+Out random rot forbidden!! T is 3770
+Out random rot forbidden!! T is 3780
+Out random rot forbidden!! T is 3790
+Out random rot forbidden!! T is 3800
+Out random rot forbidden!! T is 3810
+Out random rot forbidden!! T is 3820
+Out random rot forbidden!! T is 3830
+Out random rot forbidden!! T is 3840
+Out random rot forbidden!! T is 3850
+Out random rot forbidden!! T is 3860
+Out random rot forbidden!! T is 3870
+Out random rot forbidden!! T is 3880
+Out random rot forbidden!! T is 3890
+Out random rot forbidden!! T is 3900
+Out random rot forbidden!! T is 3910
+Out random rot forbidden!! T is 3920
+Out random rot forbidden!! T is 3930
+Out random rot forbidden!! T is 3940
+Out random rot forbidden!! T is 3950
+Out random rot forbidden!! T is 3960
+Out random rot forbidden!! T is 3970
+Out random rot forbidden!! T is 3980
+Out random rot forbidden!! T is 3990
+Out random rot forbidden!! T is 4000
+Out random rot forbidden!! T is 4010
+Out random rot forbidden!! T is 4020
+Out random rot forbidden!! T is 4030
+Out random rot forbidden!! T is 4040
+Out random rot forbidden!! T is 4050
+Out random rot forbidden!! T is 4060
+Out random rot forbidden!! T is 4070
+Out random rot forbidden!! T is 4080
+Out random rot forbidden!! T is 4090
+Out random rot forbidden!! T is 4100
+Out random rot forbidden!! T is 4110
+Out random rot forbidden!! T is 4120
+Out random rot forbidden!! T is 4130
+Out random rot forbidden!! T is 4140
+Out random rot forbidden!! T is 4150
+Out random rot forbidden!! T is 4160
+Out random rot forbidden!! T is 4170
+Out random rot forbidden!! T is 4180
+Out random rot forbidden!! T is 4190
+Out random rot forbidden!! T is 4200
+Out random rot forbidden!! T is 4210
+Out random rot forbidden!! T is 4220
+Out random rot forbidden!! T is 4230
+Out random rot forbidden!! T is 4240
+Out random rot forbidden!! T is 4250
+Out random rot forbidden!! T is 4260
+Out random rot forbidden!! T is 4270
+Out random rot forbidden!! T is 4280
+Out random rot forbidden!! T is 4290
+Out random rot forbidden!! T is 4300
+Out random rot forbidden!! T is 4310
+Out random rot forbidden!! T is 4320
+Out random rot forbidden!! T is 4330
+Out random rot forbidden!! T is 4340
+Out random rot forbidden!! T is 4350
+Out random rot forbidden!! T is 4360
+Out random rot forbidden!! T is 4370
+Out random rot forbidden!! T is 4380
+Out random rot forbidden!! T is 4390
+Out random rot forbidden!! T is 4400
+Out random rot forbidden!! T is 4410
+Out random rot forbidden!! T is 4420
+Out random rot forbidden!! T is 4430
+Out random rot forbidden!! T is 4440
+Out random rot forbidden!! T is 4450
+Out random rot forbidden!! T is 4460
+Out random rot forbidden!! T is 4470
+Out random rot forbidden!! T is 4480
+Out random rot forbidden!! T is 4490
+Out random rot forbidden!! T is 4500
+Out random rot forbidden!! T is 4510
+Out random rot forbidden!! T is 4520
+Out random rot forbidden!! T is 4530
+Out random rot forbidden!! T is 4540
+Out random rot forbidden!! T is 4550
+Out random rot forbidden!! T is 4560
+Out random rot forbidden!! T is 4570
+Out random rot forbidden!! T is 4580
+Out random rot forbidden!! T is 4590
+Out random rot forbidden!! T is 4600
+Out random rot forbidden!! T is 4610
+Out random rot forbidden!! T is 4620
+Out random rot forbidden!! T is 4630
+Out random rot forbidden!! T is 4640
+Out random rot forbidden!! T is 4650
+Out random rot forbidden!! T is 4660
+Out random rot forbidden!! T is 4670
+Out random rot forbidden!! T is 4680
+Out random rot forbidden!! T is 4690
+Out random rot forbidden!! T is 4700
+Out random rot forbidden!! T is 4710
+Out random rot forbidden!! T is 4720
+Out random rot forbidden!! T is 4730
+Out random rot forbidden!! T is 4740
+Out random rot forbidden!! T is 4750
+Out random rot forbidden!! T is 4760
+Out random rot forbidden!! T is 4770
+Out random rot forbidden!! T is 4780
+Out random rot forbidden!! T is 4790
+Out random rot forbidden!! T is 4800
+Out random rot forbidden!! T is 4810
+Out random rot forbidden!! T is 4820
+Out random rot forbidden!! T is 4830
+Out random rot forbidden!! T is 4840
+Out random rot forbidden!! T is 4850
+Out random rot forbidden!! T is 4860
+Out random rot forbidden!! T is 4870
+Out random rot forbidden!! T is 4880
+Out random rot forbidden!! T is 4890
+Out random rot forbidden!! T is 4900
+Out random rot forbidden!! T is 4910
+Out random rot forbidden!! T is 4920
+Out random rot forbidden!! T is 4930
+Out random rot forbidden!! T is 4940
+Out random rot forbidden!! T is 4950
+Out random rot forbidden!! T is 4960
+Out random rot forbidden!! T is 4970
+Out random rot forbidden!! T is 4980
+Out random rot forbidden!! T is 4990
+Out random rot forbidden!! T is 5000
+Out random rot forbidden!! T is 5010
+Out random rot forbidden!! T is 5020
+Out random rot forbidden!! T is 5030
+Out random rot forbidden!! T is 5040
+Out random rot forbidden!! T is 5050
+Out random rot forbidden!! T is 5060
+Out random rot forbidden!! T is 5070
+Out random rot forbidden!! T is 5080
+Out random rot forbidden!! T is 5090
+Out random rot forbidden!! T is 5100
+Out random rot forbidden!! T is 5110
+Out random rot forbidden!! T is 5120
+Out random rot forbidden!! T is 5130
+Out random rot forbidden!! T is 5140
+Out random rot forbidden!! T is 5150
+Out random rot forbidden!! T is 5160
+Out random rot forbidden!! T is 5170
+Out random rot forbidden!! T is 5180
+Out random rot forbidden!! T is 5190
+Out random rot forbidden!! T is 5200
+Out random rot forbidden!! T is 5210
+Out random rot forbidden!! T is 5220
+Out random rot forbidden!! T is 5230
+Out random rot forbidden!! T is 5240
+Out random rot forbidden!! T is 5250
+Out random rot forbidden!! T is 5260
+Out random rot forbidden!! T is 5270
+Out random rot forbidden!! T is 5280
+Out random rot forbidden!! T is 5290
+Out random rot forbidden!! T is 5300
+Out random rot forbidden!! T is 5310
+Out random rot forbidden!! T is 5320
+Out random rot forbidden!! T is 5330
+Out random rot forbidden!! T is 5340
+Out random rot forbidden!! T is 5350
+Out random rot forbidden!! T is 5360
+Out random rot forbidden!! T is 5370
+Out random rot forbidden!! T is 5380
+Out random rot forbidden!! T is 5390
+Out random rot forbidden!! T is 5400
+Out random rot forbidden!! T is 5410
+Out random rot forbidden!! T is 5420
+Out random rot forbidden!! T is 5430
+Out random rot forbidden!! T is 5440
+Out random rot forbidden!! T is 5450
+Out random rot forbidden!! T is 5460
+Out random rot forbidden!! T is 5470
+Out random rot forbidden!! T is 5480
+Out random rot forbidden!! T is 5490
+Out random rot forbidden!! T is 5500
+Out random rot forbidden!! T is 5510
+Out random rot forbidden!! T is 5520
+Out random rot forbidden!! T is 5530
+Out random rot forbidden!! T is 5540
+Out random rot forbidden!! T is 5550
+Out random rot forbidden!! T is 5560
+Out random rot forbidden!! T is 5570
+Out random rot forbidden!! T is 5580
+Out random rot forbidden!! T is 5590
+Out random rot forbidden!! T is 5600
+Out random rot forbidden!! T is 5610
+Out random rot forbidden!! T is 5620
+Out random rot forbidden!! T is 5630
+Out random rot forbidden!! T is 5640
+Out random rot forbidden!! T is 5650
+Out random rot forbidden!! T is 5660
+Out random rot forbidden!! T is 5670
+Out random rot forbidden!! T is 5680
+Out random rot forbidden!! T is 5690
+Out random rot forbidden!! T is 5700
+Out random rot forbidden!! T is 5710
+Out random rot forbidden!! T is 5720
+Out random rot forbidden!! T is 5730
+Out random rot forbidden!! T is 5740
+Out random rot forbidden!! T is 5750
+Out random rot forbidden!! T is 5760
+Out random rot forbidden!! T is 5770
+Out random rot forbidden!! T is 5780
+Out rot permitted!, T is 5790
+Enter Step-opt step
+No.10 Relative MinConfig in outer loop and potential is 0.00475183
+Inner rot permitted, Branch T is 5770
+Enter Step-opt step
+No.11 Relative MinConfigNum in inner loop and potential is 0.000559452
+Inner rot permitted, Branch T is 5750
+Enter Step-opt step
+No.12 Relative MinConfigNum in inner loop and potential is -0.00256409
+Inner rot permitted, Branch T is 5730
+Enter Step-opt step
+No.13 Relative MinConfigNum in inner loop and potential is -0.00085464
+Inner rot permitted, Branch T is 5710
+Enter Step-opt step
+No.14 Relative MinConfigNum in inner loop and potential is -0.00900084
+Inner rot permitted, Branch T is 5690
+Enter Step-opt step
+No.15 Relative MinConfigNum in inner loop and potential is 0.00186462
+Inner rot permitted, Branch T is 5670
+Enter Step-opt step
+No.16 Relative MinConfigNum in inner loop and potential is -0.00625712
+Inner rot permitted, Branch T is 5650
+Enter Step-opt step
+No.17 Relative MinConfigNum in inner loop and potential is 0.000702291
+Inner rot permitted, Branch T is 5630
+Enter Step-opt step
+No.18 Relative MinConfigNum in inner loop and potential is -0.00252086
+Inner rot permitted, Branch T is 5610
+Enter Step-opt step
+No.19 Relative MinConfigNum in inner loop and potential is -0.00613881
+Inner rot forbidden!!, T is 5790
+Out random rot forbidden!! T is 5800
+Out random rot forbidden!! T is 5810
+Out random rot forbidden!! T is 5820
+Out random rot forbidden!! T is 5830
+Out random rot forbidden!! T is 5840
+Out random rot forbidden!! T is 5850
+Out random rot forbidden!! T is 5860
+Out random rot forbidden!! T is 5870
+Out random rot forbidden!! T is 5880
+Out random rot forbidden!! T is 5890
+Out random rot forbidden!! T is 5900
+Out random rot forbidden!! T is 5910
+Out random rot forbidden!! T is 5920
+Out random rot forbidden!! T is 5930
+Out random rot forbidden!! T is 5940
+Out random rot forbidden!! T is 5950
+Out random rot forbidden!! T is 5960
+Out random rot forbidden!! T is 5970
+Out random rot forbidden!! T is 5980
+Out random rot forbidden!! T is 5990
+Out random rot forbidden!! T is 6000
+Out random rot forbidden!! T is 6010
+Out random rot forbidden!! T is 6020
+Out random rot forbidden!! T is 6030
+Out random rot forbidden!! T is 6040
+Out random rot forbidden!! T is 6050
+Out random rot forbidden!! T is 6060
+Out random rot forbidden!! T is 6070
+Out random rot forbidden!! T is 6080
+Out random rot forbidden!! T is 6090
+Out random rot forbidden!! T is 6100
+Out random rot forbidden!! T is 6110
+Out random rot forbidden!! T is 6120
+Out random rot forbidden!! T is 6130
+Out random rot forbidden!! T is 6140
+Out random rot forbidden!! T is 6150
+Out random rot forbidden!! T is 6160
+Out random rot forbidden!! T is 6170
+Out random rot forbidden!! T is 6180
+Out random rot forbidden!! T is 6190
+Out random rot forbidden!! T is 6200
+Out random rot forbidden!! T is 6210
+Out random rot forbidden!! T is 6220
+Out random rot forbidden!! T is 6230
+Out random rot forbidden!! T is 6240
+Out random rot forbidden!! T is 6250
+Out random rot forbidden!! T is 6260
+Out random rot forbidden!! T is 6270
+Out random rot forbidden!! T is 6280
+Out random rot forbidden!! T is 6290
+Out random rot forbidden!! T is 6300
+Out random rot forbidden!! T is 6310
+Out random rot forbidden!! T is 6320
+Out random rot forbidden!! T is 6330
+Out random rot forbidden!! T is 6340
+Out random rot forbidden!! T is 6350
+Out random rot forbidden!! T is 6360
+Out random rot forbidden!! T is 6370
+Out random rot forbidden!! T is 6380
+Out random rot forbidden!! T is 6390
+Out random rot forbidden!! T is 6400
+Out random rot forbidden!! T is 6410
+Out random rot forbidden!! T is 6420
+Out random rot forbidden!! T is 6430
+Out random rot forbidden!! T is 6440
+Out random rot forbidden!! T is 6450
+Out random rot forbidden!! T is 6460
+Out random rot forbidden!! T is 6470
+Out random rot forbidden!! T is 6480
+Out random rot forbidden!! T is 6490
+Out rot permitted!, T is 6500
+Enter Step-opt step
+No.20 Relative MinConfig in outer loop and potential is -0.00330521
+Inner rot forbidden!!, T is 6500
+Out rot permitted!, T is 6510
+Enter Step-opt step
+No.21 Relative MinConfig in outer loop and potential is -0.00226183
+Inner rot forbidden!!, T is 6510
+Out random rot forbidden!! T is 6520
+Out random rot forbidden!! T is 6530
+Out random rot forbidden!! T is 6540
+Out random rot forbidden!! T is 6550
+Out random rot forbidden!! T is 6560
+Out random rot forbidden!! T is 6570
+Out random rot forbidden!! T is 6580
+Out random rot forbidden!! T is 6590
+Out rot permitted!, T is 6600
+Enter Step-opt step
+No.22 Relative MinConfig in outer loop and potential is -0.00251013
+Inner rot forbidden!!, T is 6600
+Out random rot forbidden!! T is 6610
+Out random rot forbidden!! T is 6620
+Out random rot forbidden!! T is 6630
+Out random rot forbidden!! T is 6640
+Out random rot forbidden!! T is 6650
+Out random rot forbidden!! T is 6660
+Out random rot forbidden!! T is 6670
+Out random rot forbidden!! T is 6680
+Out random rot forbidden!! T is 6690
+Out random rot forbidden!! T is 6700
+Out random rot forbidden!! T is 6710
+Out random rot forbidden!! T is 6720
+Out random rot forbidden!! T is 6730
+Out random rot forbidden!! T is 6740
+Out random rot forbidden!! T is 6750
+Out random rot forbidden!! T is 6760
+Out random rot forbidden!! T is 6770
+Out random rot forbidden!! T is 6780
+Out random rot forbidden!! T is 6790
+Out random rot forbidden!! T is 6800
+Out random rot forbidden!! T is 6810
+Out random rot forbidden!! T is 6820
+Out random rot forbidden!! T is 6830
+Out random rot forbidden!! T is 6840
+Out random rot forbidden!! T is 6850
+Out random rot forbidden!! T is 6860
+Out random rot forbidden!! T is 6870
+Out random rot forbidden!! T is 6880
+Out random rot forbidden!! T is 6890
+Out random rot forbidden!! T is 6900
+Out random rot forbidden!! T is 6910
+Out random rot forbidden!! T is 6920
+Out random rot forbidden!! T is 6930
+Out random rot forbidden!! T is 6940
+Out random rot forbidden!! T is 6950
+Out random rot forbidden!! T is 6960
+Out random rot forbidden!! T is 6970
+Out random rot forbidden!! T is 6980
+Out random rot forbidden!! T is 6990
+Out random rot forbidden!! T is 7000
+Out random rot forbidden!! T is 7010
+Out random rot forbidden!! T is 7020
+Out random rot forbidden!! T is 7030
+Out random rot forbidden!! T is 7040
+Out random rot forbidden!! T is 7050
+Out random rot forbidden!! T is 7060
+Out random rot forbidden!! T is 7070
+Out random rot forbidden!! T is 7080
+Out random rot forbidden!! T is 7090
+Out random rot forbidden!! T is 7100
+Out random rot forbidden!! T is 7110
+Out random rot forbidden!! T is 7120
+Out random rot forbidden!! T is 7130
+Out random rot forbidden!! T is 7140
+Out random rot forbidden!! T is 7150
+Out random rot forbidden!! T is 7160
+Out random rot forbidden!! T is 7170
+Out random rot forbidden!! T is 7180
+Out random rot forbidden!! T is 7190
+Out random rot forbidden!! T is 7200
+Out random rot forbidden!! T is 7210
+Out random rot forbidden!! T is 7220
+Out random rot forbidden!! T is 7230
+Out random rot forbidden!! T is 7240
+Out random rot forbidden!! T is 7250
+Out random rot forbidden!! T is 7260
+Out random rot forbidden!! T is 7270
+Out random rot forbidden!! T is 7280
+Out random rot forbidden!! T is 7290
+Out random rot forbidden!! T is 7300
+Out random rot forbidden!! T is 7310
+Out random rot forbidden!! T is 7320
+Out random rot forbidden!! T is 7330
+Out random rot forbidden!! T is 7340
+Out random rot forbidden!! T is 7350
+Out random rot forbidden!! T is 7360
+Out random rot forbidden!! T is 7370
+Out random rot forbidden!! T is 7380
+Out random rot forbidden!! T is 7390
+Out random rot forbidden!! T is 7400
+Out random rot forbidden!! T is 7410
+Out random rot forbidden!! T is 7420
+Out random rot forbidden!! T is 7430
+Out random rot forbidden!! T is 7440
+Out random rot forbidden!! T is 7450
+Out random rot forbidden!! T is 7460
+Out random rot forbidden!! T is 7470
+Out random rot forbidden!! T is 7480
+Out rot permitted!, T is 7490
+Enter Step-opt step
+No.23 Relative MinConfig in outer loop and potential is -0.00777064
+Inner rot forbidden!!, T is 7490
+Out rot permitted!, T is 7500
+Enter Step-opt step
+No.24 Relative MinConfig in outer loop and potential is -0.00777064
+Inner rot forbidden!!, T is 7500
+Out random rot forbidden!! T is 7510
+Out random rot forbidden!! T is 7520
+Out random rot forbidden!! T is 7530
+Out random rot forbidden!! T is 7540
+Out random rot forbidden!! T is 7550
+Out random rot forbidden!! T is 7560
+Out random rot forbidden!! T is 7570
+Out random rot forbidden!! T is 7580
+Out random rot forbidden!! T is 7590
+Out rot permitted!, T is 7600
+Enter Step-opt step
+No.25 Relative MinConfig in outer loop and potential is 0.0013628
+Inner rot forbidden!!, T is 7600
+Out rot permitted!, T is 7610
+Enter Step-opt step
+No.26 Relative MinConfig in outer loop and potential is -0.00255638
+Inner rot permitted, Branch T is 7590
+Enter Step-opt step
+No.27 Relative MinConfigNum in inner loop and potential is -0.000194069
+Inner rot permitted, Branch T is 7570
+Enter Step-opt step
+No.28 Relative MinConfigNum in inner loop and potential is -0.0022804
+Inner rot permitted, Branch T is 7550
+Enter Step-opt step
+No.29 Relative MinConfigNum in inner loop and potential is -0.00425658
+Inner rot forbidden!!, T is 7610
+Out random rot forbidden!! T is 7620
+Out random rot forbidden!! T is 7630
+Out random rot forbidden!! T is 7640
+Out random rot forbidden!! T is 7650
+Out random rot forbidden!! T is 7660
+Out random rot forbidden!! T is 7670
+Out random rot forbidden!! T is 7680
+Out random rot forbidden!! T is 7690
+Out random rot forbidden!! T is 7700
+Out random rot forbidden!! T is 7710
+Out random rot forbidden!! T is 7720
+Out random rot forbidden!! T is 7730
+Out rot permitted!, T is 7740
+Enter Step-opt step
+No.30 Relative MinConfig in outer loop and potential is -0.00504371
+Inner rot forbidden!!, T is 7740
+Out random rot forbidden!! T is 7750
+Out random rot forbidden!! T is 7760
+Out random rot forbidden!! T is 7770
+Out random rot forbidden!! T is 7780
+Out random rot forbidden!! T is 7790
+Out random rot forbidden!! T is 7800
+Out random rot forbidden!! T is 7810
+Out random rot forbidden!! T is 7820
+Out random rot forbidden!! T is 7830
+Out random rot forbidden!! T is 7840
+Out random rot forbidden!! T is 7850
+Out random rot forbidden!! T is 7860
+Out random rot forbidden!! T is 7870
+Out random rot forbidden!! T is 7880
+Out random rot forbidden!! T is 7890
+Out random rot forbidden!! T is 7900
+Out random rot forbidden!! T is 7910
+Out random rot forbidden!! T is 7920
+Out random rot forbidden!! T is 7930
+Out random rot forbidden!! T is 7940
+Out random rot forbidden!! T is 7950
+Out random rot forbidden!! T is 7960
+Out random rot forbidden!! T is 7970
+Out random rot forbidden!! T is 7980
+Out random rot forbidden!! T is 7990
+Out random rot forbidden!! T is 8000
+Out random rot forbidden!! T is 8010
+Out random rot forbidden!! T is 8020
+Out random rot forbidden!! T is 8030
+Out random rot forbidden!! T is 8040
+Out random rot forbidden!! T is 8050
+Out random rot forbidden!! T is 8060
+Out random rot forbidden!! T is 8070
+Out random rot forbidden!! T is 8080
+Out random rot forbidden!! T is 8090
+Out random rot forbidden!! T is 8100
+Out random rot forbidden!! T is 8110
+Out random rot forbidden!! T is 8120
+Out random rot forbidden!! T is 8130
+Out random rot forbidden!! T is 8140
+Out random rot forbidden!! T is 8150
+Out random rot forbidden!! T is 8160
+Out random rot forbidden!! T is 8170
+Out random rot forbidden!! T is 8180
+Out random rot forbidden!! T is 8190
+Out random rot forbidden!! T is 8200
+Out random rot forbidden!! T is 8210
+Out random rot forbidden!! T is 8220
+Out random rot forbidden!! T is 8230
+Out random rot forbidden!! T is 8240
+Out random rot forbidden!! T is 8250
+Out random rot forbidden!! T is 8260
+Out random rot forbidden!! T is 8270
+Out random rot forbidden!! T is 8280
+Out random rot forbidden!! T is 8290
+Out random rot forbidden!! T is 8300
+Out random rot forbidden!! T is 8310
+Out random rot forbidden!! T is 8320
+Out random rot forbidden!! T is 8330
+Out random rot forbidden!! T is 8340
+Out random rot forbidden!! T is 8350
+Out random rot forbidden!! T is 8360
+Out random rot forbidden!! T is 8370
+Out random rot forbidden!! T is 8380
+Out random rot forbidden!! T is 8390
+Out random rot forbidden!! T is 8400
+Out random rot forbidden!! T is 8410
+Out random rot forbidden!! T is 8420
+Out random rot forbidden!! T is 8430
+Out random rot forbidden!! T is 8440
+Out random rot forbidden!! T is 8450
+Out random rot forbidden!! T is 8460
+Out random rot forbidden!! T is 8470
+Out random rot forbidden!! T is 8480
+Out random rot forbidden!! T is 8490
+Out rot permitted!, T is 8500
+Enter Step-opt step
+No.31 Relative MinConfig in outer loop and potential is -0.00542958
+Inner rot forbidden!!, T is 8500
+Out random rot forbidden!! T is 8510
+Out random rot forbidden!! T is 8520
+Out random rot forbidden!! T is 8530
+Out random rot forbidden!! T is 8540
+Out random rot forbidden!! T is 8550
+Out random rot forbidden!! T is 8560
+Out random rot forbidden!! T is 8570
+Out random rot forbidden!! T is 8580
+Out random rot forbidden!! T is 8590
+Out random rot forbidden!! T is 8600
+Out random rot forbidden!! T is 8610
+Out random rot forbidden!! T is 8620
+Out random rot forbidden!! T is 8630
+Out random rot forbidden!! T is 8640
+Out random rot forbidden!! T is 8650
+Out random rot forbidden!! T is 8660
+Out random rot forbidden!! T is 8670
+Out random rot forbidden!! T is 8680
+Out random rot forbidden!! T is 8690
+Out random rot forbidden!! T is 8700
+Out random rot forbidden!! T is 8710
+Out random rot forbidden!! T is 8720
+Out random rot forbidden!! T is 8730
+Out random rot forbidden!! T is 8740
+Out random rot forbidden!! T is 8750
+Out random rot forbidden!! T is 8760
+Out random rot forbidden!! T is 8770
+Out random rot forbidden!! T is 8780
+Out random rot forbidden!! T is 8790
+Out random rot forbidden!! T is 8800
+Out random rot forbidden!! T is 8810
+Out random rot forbidden!! T is 8820
+Out random rot forbidden!! T is 8830
+Out random rot forbidden!! T is 8840
+Out random rot forbidden!! T is 8850
+Out random rot forbidden!! T is 8860
+Out random rot forbidden!! T is 8870
+Out random rot forbidden!! T is 8880
+Out random rot forbidden!! T is 8890
+Out random rot forbidden!! T is 8900
+Out random rot forbidden!! T is 8910
+Out random rot forbidden!! T is 8920
+Out random rot forbidden!! T is 8930
+Out random rot forbidden!! T is 8940
+Out random rot forbidden!! T is 8950
+Out random rot forbidden!! T is 8960
+Out random rot forbidden!! T is 8970
+Out random rot forbidden!! T is 8980
+Out random rot forbidden!! T is 8990
+Out random rot forbidden!! T is 9000
+Out rot permitted!, T is 9010
+Enter Step-opt step
+No.32 Relative MinConfig in outer loop and potential is -0.00136429
+Inner rot permitted, Branch T is 8990
+Enter Step-opt step
+No.33 Relative MinConfigNum in inner loop and potential is -0.00703667
+Inner rot permitted, Branch T is 8970
+Enter Step-opt step
+No.34 Relative MinConfigNum in inner loop and potential is -0.00142534
+Inner rot forbidden!!, T is 9010
+Out rot permitted!, T is 9020
+Enter Step-opt step
+No.35 Relative MinConfig in outer loop and potential is -0.00169167
+Inner rot forbidden!!, T is 9020
+Out rot permitted!, T is 9030
+Enter Step-opt step
+No.36 Relative MinConfig in outer loop and potential is -0.00169167
+Inner rot forbidden!!, T is 9030
+Out random rot forbidden!! T is 9040
+Out random rot forbidden!! T is 9050
+Out random rot forbidden!! T is 9060
+Out random rot forbidden!! T is 9070
+Out random rot forbidden!! T is 9080
+Out random rot forbidden!! T is 9090
+Out random rot forbidden!! T is 9100
+Out random rot forbidden!! T is 9110
+Out random rot forbidden!! T is 9120
+Out random rot forbidden!! T is 9130
+Out random rot forbidden!! T is 9140
+Out random rot forbidden!! T is 9150
+Out random rot forbidden!! T is 9160
+Out random rot forbidden!! T is 9170
+Out random rot forbidden!! T is 9180
+Out random rot forbidden!! T is 9190
+Out random rot forbidden!! T is 9200
+Out random rot forbidden!! T is 9210
+Out random rot forbidden!! T is 9220
+Out random rot forbidden!! T is 9230
+Out random rot forbidden!! T is 9240
+Out random rot forbidden!! T is 9250
+Out random rot forbidden!! T is 9260
+Out rot permitted!, T is 9270
+Enter Step-opt step
+No.37 Relative MinConfig in outer loop and potential is -0.00421967
+Inner rot forbidden!!, T is 9270
+Out random rot forbidden!! T is 9280
+Out random rot forbidden!! T is 9290
+Out random rot forbidden!! T is 9300
+Out random rot forbidden!! T is 9310
+Out random rot forbidden!! T is 9320
+Out random rot forbidden!! T is 9330
+Out random rot forbidden!! T is 9340
+Out random rot forbidden!! T is 9350
+Out random rot forbidden!! T is 9360
+Out random rot forbidden!! T is 9370
+Out random rot forbidden!! T is 9380
+Out random rot forbidden!! T is 9390
+Out random rot forbidden!! T is 9400
+Out random rot forbidden!! T is 9410
+Out random rot forbidden!! T is 9420
+Out random rot forbidden!! T is 9430
+Out random rot forbidden!! T is 9440
+Out random rot forbidden!! T is 9450
+Out random rot forbidden!! T is 9460
+Out random rot forbidden!! T is 9470
+Out random rot forbidden!! T is 9480
+Out random rot forbidden!! T is 9490
+Out random rot forbidden!! T is 9500
+Out random rot forbidden!! T is 9510
+Out random rot forbidden!! T is 9520
+Out random rot forbidden!! T is 9530
+Out random rot forbidden!! T is 9540
+Out random rot forbidden!! T is 9550
+Out random rot forbidden!! T is 9560
+Out random rot forbidden!! T is 9570
+Out random rot forbidden!! T is 9580
+Out random rot forbidden!! T is 9590
+Out random rot forbidden!! T is 9600
+Out random rot forbidden!! T is 9610
+Out random rot forbidden!! T is 9620
+Out random rot forbidden!! T is 9630
+Out random rot forbidden!! T is 9640
+Out random rot forbidden!! T is 9650
+Out random rot forbidden!! T is 9660
+Out random rot forbidden!! T is 9670
+Out random rot forbidden!! T is 9680
+Out random rot forbidden!! T is 9690
+Out random rot forbidden!! T is 9700
+Out random rot forbidden!! T is 9710
+Out random rot forbidden!! T is 9720
+Out random rot forbidden!! T is 9730
+Out random rot forbidden!! T is 9740
+Out random rot forbidden!! T is 9750
+Out random rot forbidden!! T is 9760
+Out random rot forbidden!! T is 9770
+Out random rot forbidden!! T is 9780
+Out random rot forbidden!! T is 9790
+Out random rot forbidden!! T is 9800
+Out random rot forbidden!! T is 9810
+Out random rot forbidden!! T is 9820
+Out random rot forbidden!! T is 9830
+Out random rot forbidden!! T is 9840
+Out random rot forbidden!! T is 9850
+Out random rot forbidden!! T is 9860
+Out random rot forbidden!! T is 9870
+Out random rot forbidden!! T is 9880
+Out random rot forbidden!! T is 9890
+Out random rot forbidden!! T is 9900
+Out random rot forbidden!! T is 9910
+Out random rot forbidden!! T is 9920
+Out random rot forbidden!! T is 9930
+Out random rot forbidden!! T is 9940
+Out random rot forbidden!! T is 9950
+Out random rot forbidden!! T is 9960
+Out random rot forbidden!! T is 9970
+Out random rot forbidden!! T is 9980
+Out random rot forbidden!! T is 9990
+Out random rot forbidden!! T is 10000
+Out random rot forbidden!! T is 10010
+Out random rot forbidden!! T is 10020
+Out random rot forbidden!! T is 10030
+Out random rot forbidden!! T is 10040
+Out random rot forbidden!! T is 10050
+Out random rot forbidden!! T is 10060
+Out random rot forbidden!! T is 10070
+Out random rot forbidden!! T is 10080
+Out random rot forbidden!! T is 10090
+Out random rot forbidden!! T is 10100
+Out random rot forbidden!! T is 10110
+Out random rot forbidden!! T is 10120
+Out random rot forbidden!! T is 10130
+Out random rot forbidden!! T is 10140
+Out random rot forbidden!! T is 10150
+Out random rot forbidden!! T is 10160
+Out random rot forbidden!! T is 10170
+Out random rot forbidden!! T is 10180
+Out random rot forbidden!! T is 10190
+Out random rot forbidden!! T is 10200
+Out random rot forbidden!! T is 10210
+Out random rot forbidden!! T is 10220
+Out random rot forbidden!! T is 10230
+Out random rot forbidden!! T is 10240
+Out random rot forbidden!! T is 10250
+Out random rot forbidden!! T is 10260
+Out random rot forbidden!! T is 10270
+Out random rot forbidden!! T is 10280
+Out random rot forbidden!! T is 10290
+Out random rot forbidden!! T is 10300
+Out random rot forbidden!! T is 10310
+Out random rot forbidden!! T is 10320
+Out random rot forbidden!! T is 10330
+Out random rot forbidden!! T is 10340
+Out random rot forbidden!! T is 10350
+Out random rot forbidden!! T is 10360
+Out random rot forbidden!! T is 10370
+Out random rot forbidden!! T is 10380
+Out random rot forbidden!! T is 10390
+Out rot permitted!, T is 10400
+Enter Step-opt step
+No.38 Relative MinConfig in outer loop and potential is 0.00126482
+Inner rot forbidden!!, T is 10400
+Out random rot forbidden!! T is 10410
+Out random rot forbidden!! T is 10420
+Out random rot forbidden!! T is 10430
+Out random rot forbidden!! T is 10440
+Out random rot forbidden!! T is 10450
+Out random rot forbidden!! T is 10460
+Out random rot forbidden!! T is 10470
+Out random rot forbidden!! T is 10480
+Out random rot forbidden!! T is 10490
+Out random rot forbidden!! T is 10500
+Out random rot forbidden!! T is 10510
+Out random rot forbidden!! T is 10520
+Out random rot forbidden!! T is 10530
+Out random rot forbidden!! T is 10540
+Out random rot forbidden!! T is 10550
+Out random rot forbidden!! T is 10560
+Out random rot forbidden!! T is 10570
+Out random rot forbidden!! T is 10580
+Out random rot forbidden!! T is 10590
+Out random rot forbidden!! T is 10600
+Out random rot forbidden!! T is 10610
+Out random rot forbidden!! T is 10620
+Out random rot forbidden!! T is 10630
+Out random rot forbidden!! T is 10640
+Out random rot forbidden!! T is 10650
+Out random rot forbidden!! T is 10660
+Out random rot forbidden!! T is 10670
+Out random rot forbidden!! T is 10680
+Out random rot forbidden!! T is 10690
+Out random rot forbidden!! T is 10700
+Out random rot forbidden!! T is 10710
+Out random rot forbidden!! T is 10720
+Out random rot forbidden!! T is 10730
+Out random rot forbidden!! T is 10740
+Out random rot forbidden!! T is 10750
+Out random rot forbidden!! T is 10760
+Out random rot forbidden!! T is 10770
+Out random rot forbidden!! T is 10780
+Out random rot forbidden!! T is 10790
+Out random rot forbidden!! T is 10800
+Out random rot forbidden!! T is 10810
+Out random rot forbidden!! T is 10820
+Out random rot forbidden!! T is 10830
+Out random rot forbidden!! T is 10840
+Out random rot forbidden!! T is 10850
+Out random rot forbidden!! T is 10860
+Out random rot forbidden!! T is 10870
+Out random rot forbidden!! T is 10880
+Out random rot forbidden!! T is 10890
+Out random rot forbidden!! T is 10900
+Out random rot forbidden!! T is 10910
+Out random rot forbidden!! T is 10920
+Out random rot forbidden!! T is 10930
+Out random rot forbidden!! T is 10940
+Out random rot forbidden!! T is 10950
+Out random rot forbidden!! T is 10960
+Out random rot forbidden!! T is 10970
+Out random rot forbidden!! T is 10980
+Out random rot forbidden!! T is 10990
+Out random rot forbidden!! T is 11000
+Out random rot forbidden!! T is 11010
+Out random rot forbidden!! T is 11020
+Out random rot forbidden!! T is 11030
+Out random rot forbidden!! T is 11040
+Out random rot forbidden!! T is 11050
+Out random rot forbidden!! T is 11060
+Out random rot forbidden!! T is 11070
+Out random rot forbidden!! T is 11080
+Out random rot forbidden!! T is 11090
+Out random rot forbidden!! T is 11100
+Out random rot forbidden!! T is 11110
+Out random rot forbidden!! T is 11120
+Out random rot forbidden!! T is 11130
+Out random rot forbidden!! T is 11140
+Out random rot forbidden!! T is 11150
+Out random rot forbidden!! T is 11160
+Out random rot forbidden!! T is 11170
+Out random rot forbidden!! T is 11180
+Out random rot forbidden!! T is 11190
+Out random rot forbidden!! T is 11200
+Out random rot forbidden!! T is 11210
+Out random rot forbidden!! T is 11220
+Out random rot forbidden!! T is 11230
+Out random rot forbidden!! T is 11240
+Out random rot forbidden!! T is 11250
+Out random rot forbidden!! T is 11260
+Out random rot forbidden!! T is 11270
+Out random rot forbidden!! T is 11280
+Out random rot forbidden!! T is 11290
+Out random rot forbidden!! T is 11300
+Out random rot forbidden!! T is 11310
+Out random rot forbidden!! T is 11320
+Out random rot forbidden!! T is 11330
+Out random rot forbidden!! T is 11340
+Out random rot forbidden!! T is 11350
+Out random rot forbidden!! T is 11360
+Out random rot forbidden!! T is 11370
+Out random rot forbidden!! T is 11380
+Out random rot forbidden!! T is 11390
+Out random rot forbidden!! T is 11400
+Out random rot forbidden!! T is 11410
+Out random rot forbidden!! T is 11420
+Out random rot forbidden!! T is 11430
+Out random rot forbidden!! T is 11440
+Out random rot forbidden!! T is 11450
+Out random rot forbidden!! T is 11460
+Out random rot forbidden!! T is 11470
+Out random rot forbidden!! T is 11480
+Out random rot forbidden!! T is 11490
+Out random rot forbidden!! T is 11500
+Out random rot forbidden!! T is 11510
+Out random rot forbidden!! T is 11520
+Out random rot forbidden!! T is 11530
+Out random rot forbidden!! T is 11540
+Out random rot forbidden!! T is 11550
+Out random rot forbidden!! T is 11560
+Out random rot forbidden!! T is 11570
+Out random rot forbidden!! T is 11580
+Out random rot forbidden!! T is 11590
+Out random rot forbidden!! T is 11600
+Out random rot forbidden!! T is 11610
+Out random rot forbidden!! T is 11620
+Out random rot forbidden!! T is 11630
+Out random rot forbidden!! T is 11640
+Out random rot forbidden!! T is 11650
+Out random rot forbidden!! T is 11660
+Out rot permitted!, T is 11670
+Enter Step-opt step
+No.39 Relative MinConfig in outer loop and potential is -0.00642501
+Inner rot permitted, Branch T is 11650
+Enter Step-opt step
+No.40 Relative MinConfigNum in inner loop and potential is -0.0132403
+Inner rot permitted, Branch T is 11630
+Enter Step-opt step
+No.41 Relative MinConfigNum in inner loop and potential is -0.0167145
+No.3 MinConfigNum in inner loop 
+Energy: -0.0167145
+H8C4O8
+Atom	x	y	z
+C	-0.539046	2.39052	1.23458	
+O	-1.0817	2.69745	0.187417	
+O	-0.542178	1.09744	1.7079	
+H	-0.00877572	3.10461	1.88249	
+H	-0.0679384	1.00193	2.55912	
+C	0.120915	-2.21151	-3.37435	
+O	0.714048	-2.74199	-4.30514	
+O	0.198408	-0.86956	-3.1213	
+H	-0.518263	-2.7617	-2.66914	
+H	-0.335061	-0.593596	-2.33817	
+C	-2.04398	-1.0205	-0.173333	
+O	-2.02567	-2.18981	-0.508696	
+O	-1.32387	-0.06894	-0.879413	
+H	-2.6034	-0.618154	0.678992	
+H	-1.39772	0.844854	-0.538098	
+C	2.41634	0.934476	3.35836	
+O	1.27675	1.02911	3.77981	
+O	2.69077	0.808831	2.01487	
+H	3.30989	0.940823	4.00057	
+H	3.64922	0.742967	1.82609	
+
+Mass Center
+-1.59274e-16
+ 5.79781e-16
+-1.96679e-16
+
+H2CO2
+Atom	x	y	z
+C	5.7197	-0.226395	-0.284548	
+O	6.36412	0.788579	-0.0850521	
+O	4.5246	-0.470866	0.354232	
+H	6.02881	-1.02219	-0.978851	
+H	4.12133	-1.3245	0.0948241	
+
+Mass Center
+        5.5
+1.66514e-15
+5.87926e-16
+
+Out random rot forbidden!! T is 210
+Out random rot forbidden!! T is 220
+Out random rot forbidden!! T is 230
+Out random rot forbidden!! T is 240
+Out random rot forbidden!! T is 250
+Out random rot forbidden!! T is 260
+Out random rot forbidden!! T is 270
+Out random rot forbidden!! T is 280
+Out random rot forbidden!! T is 290
+Out random rot forbidden!! T is 300
+Out random rot forbidden!! T is 310
+Out random rot forbidden!! T is 320
+Out random rot forbidden!! T is 330
+Out random rot forbidden!! T is 340
+Out random rot forbidden!! T is 350
+Out random rot forbidden!! T is 360
+Out random rot forbidden!! T is 370
+Out random rot forbidden!! T is 380
+Out random rot forbidden!! T is 390
+Out random rot forbidden!! T is 400
+Out random rot forbidden!! T is 410
+Out random rot forbidden!! T is 420
+Out random rot forbidden!! T is 430
+Out random rot forbidden!! T is 440
+Out random rot forbidden!! T is 450
+Out random rot forbidden!! T is 460
+Out random rot forbidden!! T is 470
+Out random rot forbidden!! T is 480
+Out random rot forbidden!! T is 490
+Out random rot forbidden!! T is 500
+Out random rot forbidden!! T is 510
+Out random rot forbidden!! T is 520
+Out random rot forbidden!! T is 530
+Out random rot forbidden!! T is 540
+Out random rot forbidden!! T is 550
+Out random rot forbidden!! T is 560
+Out random rot forbidden!! T is 570
+Out random rot forbidden!! T is 580
+Out random rot forbidden!! T is 590
+Out random rot forbidden!! T is 600
+Out random rot forbidden!! T is 610
+Out random rot forbidden!! T is 620
+Out random rot forbidden!! T is 630
+Out random rot forbidden!! T is 640
+Out random rot forbidden!! T is 650
+Out random rot forbidden!! T is 660
+Out random rot forbidden!! T is 670
+Out random rot forbidden!! T is 680
+Out random rot forbidden!! T is 690
+Out random rot forbidden!! T is 700
+Out random rot forbidden!! T is 710
+Out random rot forbidden!! T is 720
+Out random rot forbidden!! T is 730
+Out random rot forbidden!! T is 740
+Out random rot forbidden!! T is 750
+Out random rot forbidden!! T is 760
+Out random rot forbidden!! T is 770
+Out random rot forbidden!! T is 780
+Out random rot forbidden!! T is 790
+Out random rot forbidden!! T is 800
+Out random rot forbidden!! T is 810
+Out random rot forbidden!! T is 820
+Out random rot forbidden!! T is 830
+Out random rot forbidden!! T is 840
+Out random rot forbidden!! T is 850
+Out random rot forbidden!! T is 860
+Out random rot forbidden!! T is 870
+Out random rot forbidden!! T is 880
+Out random rot forbidden!! T is 890
+Out random rot forbidden!! T is 900
+Out random rot forbidden!! T is 910
+Out random rot forbidden!! T is 920
+Out random rot forbidden!! T is 930
+Out random rot forbidden!! T is 940
+Out random rot forbidden!! T is 950
+Out random rot forbidden!! T is 960
+Out random rot forbidden!! T is 970
+Out random rot forbidden!! T is 980
+Out random rot forbidden!! T is 990
+Out random rot forbidden!! T is 1000
+Out random rot forbidden!! T is 1010
+Out random rot forbidden!! T is 1020
+Out random rot forbidden!! T is 1030
+Out random rot forbidden!! T is 1040
+Out random rot forbidden!! T is 1050
+Out random rot forbidden!! T is 1060
+Out random rot forbidden!! T is 1070
+Out random rot forbidden!! T is 1080
+Out random rot forbidden!! T is 1090
+Out random rot forbidden!! T is 1100
+Out random rot forbidden!! T is 1110
+Out random rot forbidden!! T is 1120
+Out random rot forbidden!! T is 1130
+Out random rot forbidden!! T is 1140
+Out random rot forbidden!! T is 1150
+Out random rot forbidden!! T is 1160
+Out random rot forbidden!! T is 1170
+Out random rot forbidden!! T is 1180
+Out random rot forbidden!! T is 1190
+Out random rot forbidden!! T is 1200
+Out random rot forbidden!! T is 1210
+Out random rot forbidden!! T is 1220
+Out random rot forbidden!! T is 1230
+Out random rot forbidden!! T is 1240
+Out random rot forbidden!! T is 1250
+Out random rot forbidden!! T is 1260
+Out random rot forbidden!! T is 1270
+Out random rot forbidden!! T is 1280
+Out random rot forbidden!! T is 1290
+Out random rot forbidden!! T is 1300
+Out random rot forbidden!! T is 1310
+Out random rot forbidden!! T is 1320
+Out random rot forbidden!! T is 1330
+Out random rot forbidden!! T is 1340
+Out random rot forbidden!! T is 1350
+Out random rot forbidden!! T is 1360
+Out random rot forbidden!! T is 1370
+Out random rot forbidden!! T is 1380
+Out random rot forbidden!! T is 1390
+Out random rot forbidden!! T is 1400
+Out random rot forbidden!! T is 1410
+Out random rot forbidden!! T is 1420
+Out random rot forbidden!! T is 1430
+Out random rot forbidden!! T is 1440
+Out random rot forbidden!! T is 1450
+Out random rot forbidden!! T is 1460
+Out random rot forbidden!! T is 1470
+Out random rot forbidden!! T is 1480
+Out random rot forbidden!! T is 1490
+Out random rot forbidden!! T is 1500
+Out random rot forbidden!! T is 1510
+Out random rot forbidden!! T is 1520
+Out random rot forbidden!! T is 1530
+Out random rot forbidden!! T is 1540
+Out random rot forbidden!! T is 1550
+Out random rot forbidden!! T is 1560
+Out random rot forbidden!! T is 1570
+Out random rot forbidden!! T is 1580
+Out random rot forbidden!! T is 1590
+Out random rot forbidden!! T is 1600
+Out random rot forbidden!! T is 1610
+Out random rot forbidden!! T is 1620
+Out random rot forbidden!! T is 1630
+Out random rot forbidden!! T is 1640
+Out random rot forbidden!! T is 1650
+Out random rot forbidden!! T is 1660
+Out random rot forbidden!! T is 1670
+Out random rot forbidden!! T is 1680
+Out random rot forbidden!! T is 1690
+Out random rot forbidden!! T is 1700
+Out random rot forbidden!! T is 1710
+Out random rot forbidden!! T is 1720
+Out rot permitted!, T is 1730
+Enter Step-opt step
+No.42 Relative MinConfig in outer loop and potential is 0.000506561
+Inner rot permitted, Branch T is 1710
+Enter Step-opt step
+No.43 Relative MinConfigNum in inner loop and potential is -0.00636473
+Inner rot forbidden!!, T is 1730
+Out random rot forbidden!! T is 1740
+Out random rot forbidden!! T is 1750
+Out random rot forbidden!! T is 1760
+Out random rot forbidden!! T is 1770
+Out random rot forbidden!! T is 1780
+Out random rot forbidden!! T is 1790
+Out random rot forbidden!! T is 1800
+Out rot permitted!, T is 1810
+Enter Step-opt step
+No.44 Relative MinConfig in outer loop and potential is -0.012302
+Inner rot forbidden!!, T is 1810
+Out random rot forbidden!! T is 1820
+Out random rot forbidden!! T is 1830
+Out random rot forbidden!! T is 1840
+Out random rot forbidden!! T is 1850
+Out random rot forbidden!! T is 1860
+Out random rot forbidden!! T is 1870
+Out random rot forbidden!! T is 1880
+Out random rot forbidden!! T is 1890
+Out random rot forbidden!! T is 1900
+Out random rot forbidden!! T is 1910
+Out random rot forbidden!! T is 1920
+Out random rot forbidden!! T is 1930
+Out random rot forbidden!! T is 1940
+Out random rot forbidden!! T is 1950
+Out random rot forbidden!! T is 1960
+Out random rot forbidden!! T is 1970
+Out random rot forbidden!! T is 1980
+Out random rot forbidden!! T is 1990
+Out random rot forbidden!! T is 2000
+Out random rot forbidden!! T is 2010
+Out random rot forbidden!! T is 2020
+Out random rot forbidden!! T is 2030
+Out random rot forbidden!! T is 2040
+Out random rot forbidden!! T is 2050
+Out random rot forbidden!! T is 2060
+Out random rot forbidden!! T is 2070
+Out random rot forbidden!! T is 2080
+Out random rot forbidden!! T is 2090
+Out random rot forbidden!! T is 2100
+Out random rot forbidden!! T is 2110
+Out random rot forbidden!! T is 2120
+Out random rot forbidden!! T is 2130
+Out random rot forbidden!! T is 2140
+Out random rot forbidden!! T is 2150
+Out random rot forbidden!! T is 2160
+Out random rot forbidden!! T is 2170
+Out random rot forbidden!! T is 2180
+Out random rot forbidden!! T is 2190
+Out random rot forbidden!! T is 2200
+Out random rot forbidden!! T is 2210
+Out random rot forbidden!! T is 2220
+Out random rot forbidden!! T is 2230
+Out random rot forbidden!! T is 2240
+Out random rot forbidden!! T is 2250
+Out random rot forbidden!! T is 2260
+Out random rot forbidden!! T is 2270
+Out random rot forbidden!! T is 2280
+Out random rot forbidden!! T is 2290
+Out random rot forbidden!! T is 2300
+Out random rot forbidden!! T is 2310
+Out random rot forbidden!! T is 2320
+Out random rot forbidden!! T is 2330
+Out random rot forbidden!! T is 2340
+Out random rot forbidden!! T is 2350
+Out random rot forbidden!! T is 2360
+Out random rot forbidden!! T is 2370
+Out random rot forbidden!! T is 2380
+Out random rot forbidden!! T is 2390
+Out random rot forbidden!! T is 2400
+Out random rot forbidden!! T is 2410
+Out random rot forbidden!! T is 2420
+Out random rot forbidden!! T is 2430
+Out random rot forbidden!! T is 2440
+Out random rot forbidden!! T is 2450
+Out random rot forbidden!! T is 2460
+Out random rot forbidden!! T is 2470
+Out random rot forbidden!! T is 2480
+Out random rot forbidden!! T is 2490
+Out random rot forbidden!! T is 2500
+Out random rot forbidden!! T is 2510
+Out random rot forbidden!! T is 2520
+Out random rot forbidden!! T is 2530
+Out random rot forbidden!! T is 2540
+Out random rot forbidden!! T is 2550
+Out random rot forbidden!! T is 2560
+Out random rot forbidden!! T is 2570
+Out random rot forbidden!! T is 2580
+Out random rot forbidden!! T is 2590
+Out random rot forbidden!! T is 2600
+Out random rot forbidden!! T is 2610
+Out random rot forbidden!! T is 2620
+Out random rot forbidden!! T is 2630
+Out random rot forbidden!! T is 2640
+Out random rot forbidden!! T is 2650
+Out random rot forbidden!! T is 2660
+Out random rot forbidden!! T is 2670
+Out random rot forbidden!! T is 2680
+Out random rot forbidden!! T is 2690
+Out random rot forbidden!! T is 2700
+Out random rot forbidden!! T is 2710
+Out random rot forbidden!! T is 2720
+Out random rot forbidden!! T is 2730
+Out random rot forbidden!! T is 2740
+Out random rot forbidden!! T is 2750
+Out random rot forbidden!! T is 2760
+Out random rot forbidden!! T is 2770
+Out random rot forbidden!! T is 2780
+Out random rot forbidden!! T is 2790
+Out random rot forbidden!! T is 2800
+Out random rot forbidden!! T is 2810
+Out random rot forbidden!! T is 2820
+Out random rot forbidden!! T is 2830
+Out random rot forbidden!! T is 2840
+Out rot permitted!, T is 2850
+Enter Step-opt step
+No.45 Relative MinConfig in outer loop and potential is -0.00240562
+Inner rot permitted, Branch T is 2830
+Enter Step-opt step
+No.46 Relative MinConfigNum in inner loop and potential is -0.00532171
+Inner rot permitted, Branch T is 2810
+Enter Step-opt step
+No.47 Relative MinConfigNum in inner loop and potential is -0.00184855
+Inner rot permitted, Branch T is 2790
+Enter Step-opt step
+No.48 Relative MinConfigNum in inner loop and potential is -0.00700831
+Inner rot forbidden!!, T is 2850
+Out random rot forbidden!! T is 2860
+Out random rot forbidden!! T is 2870
+Out random rot forbidden!! T is 2880
+Out random rot forbidden!! T is 2890
+Out random rot forbidden!! T is 2900
+Out random rot forbidden!! T is 2910
+Out random rot forbidden!! T is 2920
+Out random rot forbidden!! T is 2930
+Out random rot forbidden!! T is 2940
+Out random rot forbidden!! T is 2950
+Out random rot forbidden!! T is 2960
+Out random rot forbidden!! T is 2970
+Out random rot forbidden!! T is 2980
+Out random rot forbidden!! T is 2990
+Out random rot forbidden!! T is 3000
+Out random rot forbidden!! T is 3010
+Out random rot forbidden!! T is 3020
+Out random rot forbidden!! T is 3030
+Out random rot forbidden!! T is 3040
+Out random rot forbidden!! T is 3050
+Out random rot forbidden!! T is 3060
+Out random rot forbidden!! T is 3070
+Out random rot forbidden!! T is 3080
+Out random rot forbidden!! T is 3090
+Out random rot forbidden!! T is 3100
+Out random rot forbidden!! T is 3110
+Out random rot forbidden!! T is 3120
+Out random rot forbidden!! T is 3130
+Out random rot forbidden!! T is 3140
+Out random rot forbidden!! T is 3150
+Out random rot forbidden!! T is 3160
+Out random rot forbidden!! T is 3170
+Out random rot forbidden!! T is 3180
+Out random rot forbidden!! T is 3190
+Out random rot forbidden!! T is 3200
+Out random rot forbidden!! T is 3210
+Out random rot forbidden!! T is 3220
+Out random rot forbidden!! T is 3230
+Out random rot forbidden!! T is 3240
+Out random rot forbidden!! T is 3250
+Out random rot forbidden!! T is 3260
+Out random rot forbidden!! T is 3270
+Out random rot forbidden!! T is 3280
+Out random rot forbidden!! T is 3290
+Out random rot forbidden!! T is 3300
+Out random rot forbidden!! T is 3310
+Out random rot forbidden!! T is 3320
+Out random rot forbidden!! T is 3330
+Out random rot forbidden!! T is 3340
+Out random rot forbidden!! T is 3350
+Out random rot forbidden!! T is 3360
+Out random rot forbidden!! T is 3370
+Out random rot forbidden!! T is 3380
+Out random rot forbidden!! T is 3390
+Out random rot forbidden!! T is 3400
+Out random rot forbidden!! T is 3410
+Out random rot forbidden!! T is 3420
+Out random rot forbidden!! T is 3430
+Out random rot forbidden!! T is 3440
+Out random rot forbidden!! T is 3450
+Out random rot forbidden!! T is 3460
+Out random rot forbidden!! T is 3470
+Out random rot forbidden!! T is 3480
+Out random rot forbidden!! T is 3490
+Out random rot forbidden!! T is 3500
+Out random rot forbidden!! T is 3510
+Out random rot forbidden!! T is 3520
+Out random rot forbidden!! T is 3530
+Out random rot forbidden!! T is 3540
+Out random rot forbidden!! T is 3550
+Out random rot forbidden!! T is 3560
+Out random rot forbidden!! T is 3570
+Out random rot forbidden!! T is 3580
+Out random rot forbidden!! T is 3590
+Out random rot forbidden!! T is 3600
+Out random rot forbidden!! T is 3610
+Out random rot forbidden!! T is 3620
+Out random rot forbidden!! T is 3630
+Out random rot forbidden!! T is 3640
+Out random rot forbidden!! T is 3650
+Out random rot forbidden!! T is 3660
+Out random rot forbidden!! T is 3670
+Out random rot forbidden!! T is 3680
+Out random rot forbidden!! T is 3690
+Out random rot forbidden!! T is 3700
+Out random rot forbidden!! T is 3710
+Out random rot forbidden!! T is 3720
+Out random rot forbidden!! T is 3730
+Out random rot forbidden!! T is 3740
+Out random rot forbidden!! T is 3750
+Out random rot forbidden!! T is 3760
+Out random rot forbidden!! T is 3770
+Out random rot forbidden!! T is 3780
+Out random rot forbidden!! T is 3790
+Out random rot forbidden!! T is 3800
+Out random rot forbidden!! T is 3810
+Out random rot forbidden!! T is 3820
+Out random rot forbidden!! T is 3830
+Out random rot forbidden!! T is 3840
+Out random rot forbidden!! T is 3850
+Out random rot forbidden!! T is 3860
+Out random rot forbidden!! T is 3870
+Out random rot forbidden!! T is 3880
+Out random rot forbidden!! T is 3890
+Out random rot forbidden!! T is 3900
+Out random rot forbidden!! T is 3910
+Out random rot forbidden!! T is 3920
+Out random rot forbidden!! T is 3930
+Out random rot forbidden!! T is 3940
+Out random rot forbidden!! T is 3950
+Out random rot forbidden!! T is 3960
+Out random rot forbidden!! T is 3970
+Out random rot forbidden!! T is 3980
+Out random rot forbidden!! T is 3990
+Out random rot forbidden!! T is 4000
+Out random rot forbidden!! T is 4010
+Out random rot forbidden!! T is 4020
+Out random rot forbidden!! T is 4030
+Out random rot forbidden!! T is 4040
+Out random rot forbidden!! T is 4050
+Out random rot forbidden!! T is 4060
+Out random rot forbidden!! T is 4070
+Out random rot forbidden!! T is 4080
+Out random rot forbidden!! T is 4090
+Out random rot forbidden!! T is 4100
+Out random rot forbidden!! T is 4110
+Out random rot forbidden!! T is 4120
+Out random rot forbidden!! T is 4130
+Out random rot forbidden!! T is 4140
+Out random rot forbidden!! T is 4150
+Out random rot forbidden!! T is 4160
+Out random rot forbidden!! T is 4170
+Out random rot forbidden!! T is 4180
+Out random rot forbidden!! T is 4190
+Out random rot forbidden!! T is 4200
+Out random rot forbidden!! T is 4210
+Out random rot forbidden!! T is 4220
+Out random rot forbidden!! T is 4230
+Out random rot forbidden!! T is 4240
+Out random rot forbidden!! T is 4250
+Out random rot forbidden!! T is 4260
+Out random rot forbidden!! T is 4270
+Out random rot forbidden!! T is 4280
+Out random rot forbidden!! T is 4290
+Out random rot forbidden!! T is 4300
+Out random rot forbidden!! T is 4310
+Out rot permitted!, T is 4320
+Enter Step-opt step
+No.49 Relative MinConfig in outer loop and potential is -0.00644027
+Inner rot permitted, Branch T is 4300
+Enter Step-opt step
+No.50 Relative MinConfigNum in inner loop and potential is 0.00160307
+Inner rot permitted, Branch T is 4280
+Enter Step-opt step
+No.51 Relative MinConfigNum in inner loop and potential is -0.00308211
+Inner rot permitted, Branch T is 4260
+Enter Step-opt step
+No.52 Relative MinConfigNum in inner loop and potential is -0.00944442
+Inner rot forbidden!!, T is 4320
+Out random rot forbidden!! T is 4330
+Out random rot forbidden!! T is 4340
+Out random rot forbidden!! T is 4350
+Out random rot forbidden!! T is 4360
+Out random rot forbidden!! T is 4370
+Out random rot forbidden!! T is 4380
+Out random rot forbidden!! T is 4390
+Out random rot forbidden!! T is 4400
+Out random rot forbidden!! T is 4410
+Out random rot forbidden!! T is 4420
+Out random rot forbidden!! T is 4430
+Out random rot forbidden!! T is 4440
+Out random rot forbidden!! T is 4450
+Out random rot forbidden!! T is 4460
+Out random rot forbidden!! T is 4470
+Out random rot forbidden!! T is 4480
+Out random rot forbidden!! T is 4490
+Out random rot forbidden!! T is 4500
+Out random rot forbidden!! T is 4510
+Out random rot forbidden!! T is 4520
+Out random rot forbidden!! T is 4530
+Out random rot forbidden!! T is 4540
+Out random rot forbidden!! T is 4550
+Out random rot forbidden!! T is 4560
+Out random rot forbidden!! T is 4570
+Out random rot forbidden!! T is 4580
+Out random rot forbidden!! T is 4590
+Out random rot forbidden!! T is 4600
+Out random rot forbidden!! T is 4610
+Out random rot forbidden!! T is 4620
+Out random rot forbidden!! T is 4630
+Out random rot forbidden!! T is 4640
+Out random rot forbidden!! T is 4650
+Out random rot forbidden!! T is 4660
+Out random rot forbidden!! T is 4670
+Out random rot forbidden!! T is 4680
+Out random rot forbidden!! T is 4690
+Out rot permitted!, T is 4700
+Enter Step-opt step
+No.53 Relative MinConfig in outer loop and potential is 0.00295508
+Inner rot permitted, Branch T is 4680
+Enter Step-opt step
+No.54 Relative MinConfigNum in inner loop and potential is 0.00151641
+Inner rot permitted, Branch T is 4660
+Enter Step-opt step
+No.55 Relative MinConfigNum in inner loop and potential is 0.0014811
+Inner rot permitted, Branch T is 4640
+Enter Step-opt step
+No.56 Relative MinConfigNum in inner loop and potential is -0.000378383
+Inner rot permitted, Branch T is 4620
+Enter Step-opt step
+No.57 Relative MinConfigNum in inner loop and potential is 0.000830597
+Inner rot permitted, Branch T is 4600
+Enter Step-opt step
+No.58 Relative MinConfigNum in inner loop and potential is 0.00119395
+Inner rot permitted, Branch T is 4580
+Enter Step-opt step
+No.59 Relative MinConfigNum in inner loop and potential is -0.00568106
+Inner rot permitted, Branch T is 4560
+Enter Step-opt step
+No.60 Relative MinConfigNum in inner loop and potential is -0.0057248
+Inner rot permitted, Branch T is 4540
+Enter Step-opt step
+No.61 Relative MinConfigNum in inner loop and potential is -0.00592686
+Inner rot forbidden!!, T is 4700
+Out random rot forbidden!! T is 4710
+Out random rot forbidden!! T is 4720
+Out random rot forbidden!! T is 4730
+Out random rot forbidden!! T is 4740
+Out random rot forbidden!! T is 4750
+Out random rot forbidden!! T is 4760
+Out random rot forbidden!! T is 4770
+Out random rot forbidden!! T is 4780
+Out random rot forbidden!! T is 4790
+Out random rot forbidden!! T is 4800
+Out random rot forbidden!! T is 4810
+Out random rot forbidden!! T is 4820
+Out random rot forbidden!! T is 4830
+Out random rot forbidden!! T is 4840
+Out random rot forbidden!! T is 4850
+Out random rot forbidden!! T is 4860
+Out random rot forbidden!! T is 4870
+Out random rot forbidden!! T is 4880
+Out random rot forbidden!! T is 4890
+Out random rot forbidden!! T is 4900
+Out random rot forbidden!! T is 4910
+Out random rot forbidden!! T is 4920
+Out random rot forbidden!! T is 4930
+Out random rot forbidden!! T is 4940
+Out random rot forbidden!! T is 4950
+Out random rot forbidden!! T is 4960
+Out random rot forbidden!! T is 4970
+Out random rot forbidden!! T is 4980
+Out random rot forbidden!! T is 4990
+Out random rot forbidden!! T is 5000
+Out random rot forbidden!! T is 5010
+Out random rot forbidden!! T is 5020
+Out random rot forbidden!! T is 5030
+Out random rot forbidden!! T is 5040
+Out random rot forbidden!! T is 5050
+Out random rot forbidden!! T is 5060
+Out random rot forbidden!! T is 5070
+Out random rot forbidden!! T is 5080
+Out random rot forbidden!! T is 5090
+Out random rot forbidden!! T is 5100
+Out random rot forbidden!! T is 5110
+Out random rot forbidden!! T is 5120
+Out random rot forbidden!! T is 5130
+Out random rot forbidden!! T is 5140
+Out random rot forbidden!! T is 5150
+Out random rot forbidden!! T is 5160
+Out random rot forbidden!! T is 5170
+Out random rot forbidden!! T is 5180
+Out rot permitted!, T is 5190
+Enter Step-opt step
+No.62 Relative MinConfig in outer loop and potential is -0.00368623
+Inner rot forbidden!!, T is 5190
+Out random rot forbidden!! T is 5200
+Out random rot forbidden!! T is 5210
+Out random rot forbidden!! T is 5220
+Out random rot forbidden!! T is 5230
+Out random rot forbidden!! T is 5240
+Out random rot forbidden!! T is 5250
+Out random rot forbidden!! T is 5260
+Out random rot forbidden!! T is 5270
+Out random rot forbidden!! T is 5280
+Out random rot forbidden!! T is 5290
+Out random rot forbidden!! T is 5300
+Out random rot forbidden!! T is 5310
+Out random rot forbidden!! T is 5320
+Out random rot forbidden!! T is 5330
+Out random rot forbidden!! T is 5340
+Out random rot forbidden!! T is 5350
+Out random rot forbidden!! T is 5360
+Out random rot forbidden!! T is 5370
+Out random rot forbidden!! T is 5380
+Out random rot forbidden!! T is 5390
+Out random rot forbidden!! T is 5400
+Out random rot forbidden!! T is 5410
+Out random rot forbidden!! T is 5420
+Out random rot forbidden!! T is 5430
+Out random rot forbidden!! T is 5440
+Out random rot forbidden!! T is 5450
+Out random rot forbidden!! T is 5460
+Out random rot forbidden!! T is 5470
+Out random rot forbidden!! T is 5480
+Out random rot forbidden!! T is 5490
+Out random rot forbidden!! T is 5500
+Out random rot forbidden!! T is 5510
+Out random rot forbidden!! T is 5520
+Out random rot forbidden!! T is 5530
+Out random rot forbidden!! T is 5540
+Out random rot forbidden!! T is 5550
+Out random rot forbidden!! T is 5560
+Out random rot forbidden!! T is 5570
+Out random rot forbidden!! T is 5580
+Out random rot forbidden!! T is 5590
+Out random rot forbidden!! T is 5600
+Out random rot forbidden!! T is 5610
+Out random rot forbidden!! T is 5620
+Out rot permitted!, T is 5630
+Enter Step-opt step
+No.63 Relative MinConfig in outer loop and potential is 0.00162773
+Inner rot permitted, Branch T is 5610
+Enter Step-opt step
+No.64 Relative MinConfigNum in inner loop and potential is -9.6089e-05
+Inner rot permitted, Branch T is 5590
+Enter Step-opt step
+No.65 Relative MinConfigNum in inner loop and potential is -0.0020659
+Inner rot permitted, Branch T is 5570
+Enter Step-opt step
+No.66 Relative MinConfigNum in inner loop and potential is -0.00324074
+Inner rot permitted, Branch T is 5550
+Enter Step-opt step
+No.67 Relative MinConfigNum in inner loop and potential is -0.0027947
+Inner rot permitted, Branch T is 5530
+Enter Step-opt step
+No.68 Relative MinConfigNum in inner loop and potential is -0.00791093
+Inner rot permitted, Branch T is 5510
+Enter Step-opt step
+No.69 Relative MinConfigNum in inner loop and potential is -0.0173942
+No.4 MinConfigNum in inner loop 
+Energy: -0.0173942
+H8C4O8
+Atom	x	y	z
+C	-0.880542	2.59684	-0.101901	
+O	-1.21089	2.33728	-1.2459	
+O	-0.925104	1.65651	0.903014	
+H	-0.524332	3.58573	0.223876	
+H	-0.630715	2.00858	1.76787	
+C	0.900144	-3.43519	-1.91856	
+O	1.69257	-4.23909	-2.39332	
+O	0.867293	-2.1217	-2.29874	
+H	0.154618	-3.6965	-1.15405	
+H	0.174147	-1.60113	-1.82694	
+C	-1.92045	-1.24937	-0.0163902	
+O	-1.78446	-2.4333	0.228391	
+O	-1.11266	-0.62139	-0.952169	
+H	-2.65846	-0.589452	0.453868	
+H	-1.29332	0.33097	-1.08385	
+C	1.63906	2.62487	2.9007	
+O	0.434514	2.74597	3.04089	
+O	2.18668	1.95713	1.82818	
+H	2.38184	3.03002	3.60429	
+H	3.1654	1.94047	1.84885	
+
+Mass Center
+-2.46151e-16
+ 5.85211e-16
+-3.94565e-16
+
+H2CO2
+Atom	x	y	z
+C	4.38592	-0.0646185	-0.404106	
+O	3.92826	1.02023	-0.0896367	
+O	5.11464	-0.83339	0.475685	
+H	4.2604	-0.517782	-1.39899	
+H	5.41705	-1.6781	0.0837389	
+
+Mass Center
+         4.5
+ 2.14778e-15
+-2.69981e-16
+
+Out random rot forbidden!! T is 210
+Out random rot forbidden!! T is 220
+Out random rot forbidden!! T is 230
+Out random rot forbidden!! T is 240
+Out random rot forbidden!! T is 250
+Out random rot forbidden!! T is 260
+Out random rot forbidden!! T is 270
+Out random rot forbidden!! T is 280
+Out random rot forbidden!! T is 290
+Out random rot forbidden!! T is 300
+Out random rot forbidden!! T is 310
+Out random rot forbidden!! T is 320
+Out random rot forbidden!! T is 330
+Out random rot forbidden!! T is 340
+Out random rot forbidden!! T is 350
+Out random rot forbidden!! T is 360
+Out random rot forbidden!! T is 370
+Out random rot forbidden!! T is 380
+Out random rot forbidden!! T is 390
+Out random rot forbidden!! T is 400
+Out random rot forbidden!! T is 410
+Out random rot forbidden!! T is 420
+Out random rot forbidden!! T is 430
+Out random rot forbidden!! T is 440
+Out random rot forbidden!! T is 450
+Out random rot forbidden!! T is 460
+Out random rot forbidden!! T is 470
+Out random rot forbidden!! T is 480
+Out random rot forbidden!! T is 490
+Out random rot forbidden!! T is 500
+Out random rot forbidden!! T is 510
+Out random rot forbidden!! T is 520
+Out random rot forbidden!! T is 530
+Out random rot forbidden!! T is 540
+Out random rot forbidden!! T is 550
+Out random rot forbidden!! T is 560
+Out random rot forbidden!! T is 570
+Out random rot forbidden!! T is 580
+Out random rot forbidden!! T is 590
+Out random rot forbidden!! T is 600
+Out random rot forbidden!! T is 610
+Out random rot forbidden!! T is 620
+Out random rot forbidden!! T is 630
+Out random rot forbidden!! T is 640
+Out random rot forbidden!! T is 650
+Out random rot forbidden!! T is 660
+Out random rot forbidden!! T is 670
+Out random rot forbidden!! T is 680
+Out random rot forbidden!! T is 690
+Out random rot forbidden!! T is 700
+Out random rot forbidden!! T is 710
+Out random rot forbidden!! T is 720
+Out rot permitted!, T is 730
+Enter Step-opt step
+No.70 Relative MinConfig in outer loop and potential is -0.00514202
+Inner rot forbidden!!, T is 730
+Out random rot forbidden!! T is 740
+Out random rot forbidden!! T is 750
+Out random rot forbidden!! T is 760
+Out random rot forbidden!! T is 770
+Out random rot forbidden!! T is 780
+Out random rot forbidden!! T is 790
+Out random rot forbidden!! T is 800
+Out random rot forbidden!! T is 810
+Out random rot forbidden!! T is 820
+Out random rot forbidden!! T is 830
+Out random rot forbidden!! T is 840
+Out random rot forbidden!! T is 850
+Out random rot forbidden!! T is 860
+Out random rot forbidden!! T is 870
+Out random rot forbidden!! T is 880
+Out random rot forbidden!! T is 890
+Out random rot forbidden!! T is 900
+Out random rot forbidden!! T is 910
+Out random rot forbidden!! T is 920
+Out random rot forbidden!! T is 930
+Out random rot forbidden!! T is 940
+Out random rot forbidden!! T is 950
+Out random rot forbidden!! T is 960
+Out random rot forbidden!! T is 970
+Out random rot forbidden!! T is 980
+Out random rot forbidden!! T is 990
+Out random rot forbidden!! T is 1000
+Out random rot forbidden!! T is 1010
+Out random rot forbidden!! T is 1020
+Out random rot forbidden!! T is 1030
+Out random rot forbidden!! T is 1040
+Out random rot forbidden!! T is 1050
+Out random rot forbidden!! T is 1060
+Out random rot forbidden!! T is 1070
+Out random rot forbidden!! T is 1080
+Out random rot forbidden!! T is 1090
+Out random rot forbidden!! T is 1100
+Out random rot forbidden!! T is 1110
+Out random rot forbidden!! T is 1120
+Out random rot forbidden!! T is 1130
+Out random rot forbidden!! T is 1140
+Out random rot forbidden!! T is 1150
+Out random rot forbidden!! T is 1160
+Out random rot forbidden!! T is 1170
+Out random rot forbidden!! T is 1180
+Out random rot forbidden!! T is 1190
+Out random rot forbidden!! T is 1200
+Out random rot forbidden!! T is 1210
+Out random rot forbidden!! T is 1220
+Out random rot forbidden!! T is 1230
+Out random rot forbidden!! T is 1240
+Out random rot forbidden!! T is 1250
+Out random rot forbidden!! T is 1260
+Out random rot forbidden!! T is 1270
+Out random rot forbidden!! T is 1280
+Out random rot forbidden!! T is 1290
+Out random rot forbidden!! T is 1300
+Out random rot forbidden!! T is 1310
+Out random rot forbidden!! T is 1320
+Out random rot forbidden!! T is 1330
+Out random rot forbidden!! T is 1340
+Out random rot forbidden!! T is 1350
+Out random rot forbidden!! T is 1360
+Out random rot forbidden!! T is 1370
+Out random rot forbidden!! T is 1380
+Out random rot forbidden!! T is 1390
+Out random rot forbidden!! T is 1400
+Out random rot forbidden!! T is 1410
+Out random rot forbidden!! T is 1420
+Out random rot forbidden!! T is 1430
+Out random rot forbidden!! T is 1440
+Out random rot forbidden!! T is 1450
+Out random rot forbidden!! T is 1460
+Out random rot forbidden!! T is 1470
+Out random rot forbidden!! T is 1480
+Out random rot forbidden!! T is 1490
+Out random rot forbidden!! T is 1500
+Out random rot forbidden!! T is 1510
+Out random rot forbidden!! T is 1520
+Out random rot forbidden!! T is 1530
+Out random rot forbidden!! T is 1540
+Out random rot forbidden!! T is 1550
+Out random rot forbidden!! T is 1560
+Out random rot forbidden!! T is 1570
+Out random rot forbidden!! T is 1580
+Out random rot forbidden!! T is 1590
+Out random rot forbidden!! T is 1600
+Out random rot forbidden!! T is 1610
+Out random rot forbidden!! T is 1620
+Out random rot forbidden!! T is 1630
+Out random rot forbidden!! T is 1640
+Out random rot forbidden!! T is 1650
+Out random rot forbidden!! T is 1660
+Out random rot forbidden!! T is 1670
+Out rot permitted!, T is 1680
+Enter Step-opt step
+No.71 Relative MinConfig in outer loop and potential is -0.00309597
+Inner rot permitted, Branch T is 1660
+Enter Step-opt step
+No.72 Relative MinConfigNum in inner loop and potential is 0.00111591
+Inner rot permitted, Branch T is 1640
+Enter Step-opt step
+No.73 Relative MinConfigNum in inner loop and potential is -0.000854545
+Inner rot permitted, Branch T is 1620
+Enter Step-opt step
+No.74 Relative MinConfigNum in inner loop and potential is 0.00388668
+Inner rot forbidden!!, T is 1680
+Out rot permitted!, T is 1690
+Enter Step-opt step
+No.75 Relative MinConfig in outer loop and potential is -0.0113265
+Inner rot forbidden!!, T is 1690
+Out random rot forbidden!! T is 1700
+Out random rot forbidden!! T is 1710
+Out random rot forbidden!! T is 1720
+Out random rot forbidden!! T is 1730
+Out random rot forbidden!! T is 1740
+Out random rot forbidden!! T is 1750
+Out random rot forbidden!! T is 1760
+Out random rot forbidden!! T is 1770
+Out random rot forbidden!! T is 1780
+Out random rot forbidden!! T is 1790
+Out random rot forbidden!! T is 1800
+Out random rot forbidden!! T is 1810
+Out random rot forbidden!! T is 1820
+Out random rot forbidden!! T is 1830
+Out random rot forbidden!! T is 1840
+Out random rot forbidden!! T is 1850
+Out random rot forbidden!! T is 1860
+Out random rot forbidden!! T is 1870
+Out random rot forbidden!! T is 1880
+Out random rot forbidden!! T is 1890
+Out random rot forbidden!! T is 1900
+Out random rot forbidden!! T is 1910
+Out random rot forbidden!! T is 1920
+Out random rot forbidden!! T is 1930
+Out random rot forbidden!! T is 1940
+Out random rot forbidden!! T is 1950
+Out random rot forbidden!! T is 1960
+Out random rot forbidden!! T is 1970
+Out random rot forbidden!! T is 1980
+Out random rot forbidden!! T is 1990
+Out random rot forbidden!! T is 2000
+Out random rot forbidden!! T is 2010
+Out random rot forbidden!! T is 2020
+Out random rot forbidden!! T is 2030
+Out random rot forbidden!! T is 2040
+Out random rot forbidden!! T is 2050
+Out random rot forbidden!! T is 2060
+Out random rot forbidden!! T is 2070
+Out random rot forbidden!! T is 2080
+Out random rot forbidden!! T is 2090
+Out random rot forbidden!! T is 2100
+Out random rot forbidden!! T is 2110
+Out random rot forbidden!! T is 2120
+Out random rot forbidden!! T is 2130
+Out random rot forbidden!! T is 2140
+Out random rot forbidden!! T is 2150
+Out random rot forbidden!! T is 2160
+Out random rot forbidden!! T is 2170
+Out random rot forbidden!! T is 2180
+Out random rot forbidden!! T is 2190
+Out random rot forbidden!! T is 2200
+Out random rot forbidden!! T is 2210
+Out random rot forbidden!! T is 2220
+Out random rot forbidden!! T is 2230
+Out random rot forbidden!! T is 2240
+Out random rot forbidden!! T is 2250
+Out random rot forbidden!! T is 2260
+Out random rot forbidden!! T is 2270
+Out random rot forbidden!! T is 2280
+Out random rot forbidden!! T is 2290
+Out random rot forbidden!! T is 2300
+Out random rot forbidden!! T is 2310
+Out random rot forbidden!! T is 2320
+Out random rot forbidden!! T is 2330
+Out random rot forbidden!! T is 2340
+Out random rot forbidden!! T is 2350
+Out random rot forbidden!! T is 2360
+Out random rot forbidden!! T is 2370
+Out random rot forbidden!! T is 2380
+Out random rot forbidden!! T is 2390
+Out random rot forbidden!! T is 2400
+Out random rot forbidden!! T is 2410
+Out random rot forbidden!! T is 2420
+Out random rot forbidden!! T is 2430
+Out random rot forbidden!! T is 2440
+Out random rot forbidden!! T is 2450
+Out random rot forbidden!! T is 2460
+Out random rot forbidden!! T is 2470
+Out random rot forbidden!! T is 2480
+Out random rot forbidden!! T is 2490
+Out random rot forbidden!! T is 2500
+Out random rot forbidden!! T is 2510
+Out random rot forbidden!! T is 2520
+Out random rot forbidden!! T is 2530
+Out random rot forbidden!! T is 2540
+Out random rot forbidden!! T is 2550
+Out random rot forbidden!! T is 2560
+Out random rot forbidden!! T is 2570
+Out random rot forbidden!! T is 2580
+Out random rot forbidden!! T is 2590
+Out random rot forbidden!! T is 2600
+Out random rot forbidden!! T is 2610
+Out random rot forbidden!! T is 2620
+Out random rot forbidden!! T is 2630
+Out random rot forbidden!! T is 2640
+Out random rot forbidden!! T is 2650
+Out random rot forbidden!! T is 2660
+Out random rot forbidden!! T is 2670
+Out random rot forbidden!! T is 2680
+Out random rot forbidden!! T is 2690
+Out random rot forbidden!! T is 2700
+Out random rot forbidden!! T is 2710
+Out random rot forbidden!! T is 2720
+Out random rot forbidden!! T is 2730
+Out random rot forbidden!! T is 2740
+Out random rot forbidden!! T is 2750
+Out random rot forbidden!! T is 2760
+Out random rot forbidden!! T is 2770
+Out random rot forbidden!! T is 2780
+Out random rot forbidden!! T is 2790
+Out random rot forbidden!! T is 2800
+Out random rot forbidden!! T is 2810
+Out random rot forbidden!! T is 2820
+Out random rot forbidden!! T is 2830
+Out random rot forbidden!! T is 2840
+Out random rot forbidden!! T is 2850
+Out random rot forbidden!! T is 2860
+Out random rot forbidden!! T is 2870
+Out random rot forbidden!! T is 2880
+Out random rot forbidden!! T is 2890
+Out random rot forbidden!! T is 2900
+Out random rot forbidden!! T is 2910
+Out random rot forbidden!! T is 2920
+Out random rot forbidden!! T is 2930
+Out random rot forbidden!! T is 2940
+Out random rot forbidden!! T is 2950
+Out random rot forbidden!! T is 2960
+Out random rot forbidden!! T is 2970
+Out random rot forbidden!! T is 2980
+Out random rot forbidden!! T is 2990
+Out random rot forbidden!! T is 3000
+Out random rot forbidden!! T is 3010
+Out random rot forbidden!! T is 3020
+Out random rot forbidden!! T is 3030
+Out random rot forbidden!! T is 3040
+Out random rot forbidden!! T is 3050
+Out random rot forbidden!! T is 3060
+Out random rot forbidden!! T is 3070
+Out random rot forbidden!! T is 3080
+Out random rot forbidden!! T is 3090
+Out random rot forbidden!! T is 3100
+Out random rot forbidden!! T is 3110
+Out random rot forbidden!! T is 3120
+Out random rot forbidden!! T is 3130
+Out random rot forbidden!! T is 3140
+Out random rot forbidden!! T is 3150
+Out random rot forbidden!! T is 3160
+Out random rot forbidden!! T is 3170
+Out random rot forbidden!! T is 3180
+Out random rot forbidden!! T is 3190
+Out random rot forbidden!! T is 3200
+Out random rot forbidden!! T is 3210
+Out random rot forbidden!! T is 3220
+Out random rot forbidden!! T is 3230
+Out random rot forbidden!! T is 3240
+Out random rot forbidden!! T is 3250
+Out random rot forbidden!! T is 3260
+Out random rot forbidden!! T is 3270
+Out random rot forbidden!! T is 3280
+Out random rot forbidden!! T is 3290
+Out random rot forbidden!! T is 3300
+Out random rot forbidden!! T is 3310
+Out random rot forbidden!! T is 3320
+Out random rot forbidden!! T is 3330
+Out random rot forbidden!! T is 3340
+Out random rot forbidden!! T is 3350
+Out random rot forbidden!! T is 3360
+Out random rot forbidden!! T is 3370
+Out random rot forbidden!! T is 3380
+Out random rot forbidden!! T is 3390
+Out random rot forbidden!! T is 3400
+Out random rot forbidden!! T is 3410
+Out random rot forbidden!! T is 3420
+Out random rot forbidden!! T is 3430
+Out random rot forbidden!! T is 3440
+Out random rot forbidden!! T is 3450
+Out random rot forbidden!! T is 3460
+Out random rot forbidden!! T is 3470
+Out random rot forbidden!! T is 3480
+Out random rot forbidden!! T is 3490
+Out random rot forbidden!! T is 3500
+Out random rot forbidden!! T is 3510
+Out random rot forbidden!! T is 3520
+Out random rot forbidden!! T is 3530
+Out random rot forbidden!! T is 3540
+Out random rot forbidden!! T is 3550
+Out random rot forbidden!! T is 3560
+Out random rot forbidden!! T is 3570
+Out random rot forbidden!! T is 3580
+Out random rot forbidden!! T is 3590
+Out random rot forbidden!! T is 3600
+Out random rot forbidden!! T is 3610
+Out random rot forbidden!! T is 3620
+Out random rot forbidden!! T is 3630
+Out random rot forbidden!! T is 3640
+Out random rot forbidden!! T is 3650
+Out random rot forbidden!! T is 3660
+Out random rot forbidden!! T is 3670
+Out random rot forbidden!! T is 3680
+Out random rot forbidden!! T is 3690
+Out random rot forbidden!! T is 3700
+Out random rot forbidden!! T is 3710
+Out random rot forbidden!! T is 3720
+Out random rot forbidden!! T is 3730
+Out random rot forbidden!! T is 3740
+Out random rot forbidden!! T is 3750
+Out random rot forbidden!! T is 3760
+Out random rot forbidden!! T is 3770
+Out random rot forbidden!! T is 3780
+Out random rot forbidden!! T is 3790
+Out random rot forbidden!! T is 3800
+Out random rot forbidden!! T is 3810
+Out random rot forbidden!! T is 3820
+Out random rot forbidden!! T is 3830
+Out random rot forbidden!! T is 3840
+Out random rot forbidden!! T is 3850
+Out random rot forbidden!! T is 3860
+Out random rot forbidden!! T is 3870
+Out random rot forbidden!! T is 3880
+Out random rot forbidden!! T is 3890
+Out random rot forbidden!! T is 3900
+Out random rot forbidden!! T is 3910
+Out random rot forbidden!! T is 3920
+Out random rot forbidden!! T is 3930
+Out random rot forbidden!! T is 3940
+Out random rot forbidden!! T is 3950
+Out random rot forbidden!! T is 3960
+Out random rot forbidden!! T is 3970
+Out rot permitted!, T is 3980
+Enter Step-opt step
+No.76 Relative MinConfig in outer loop and potential is -0.000938442
+Inner rot permitted, Branch T is 3960
+Enter Step-opt step
+No.77 Relative MinConfigNum in inner loop and potential is -0.00142609
+Inner rot permitted, Branch T is 3940
+Enter Step-opt step
+No.78 Relative MinConfigNum in inner loop and potential is -0.00847859
+Inner rot forbidden!!, T is 3980
+Out random rot forbidden!! T is 3990
+Out random rot forbidden!! T is 4000
+Out random rot forbidden!! T is 4010
+Out random rot forbidden!! T is 4020
+Out random rot forbidden!! T is 4030
+Out random rot forbidden!! T is 4040
+Out random rot forbidden!! T is 4050
+Out random rot forbidden!! T is 4060
+Out random rot forbidden!! T is 4070
+Out random rot forbidden!! T is 4080
+Out random rot forbidden!! T is 4090
+Out rot permitted!, T is 4100
+Enter Step-opt step
+No.79 Relative MinConfig in outer loop and potential is -0.00121575
+Inner rot permitted, Branch T is 4080
+Enter Step-opt step
+No.80 Relative MinConfigNum in inner loop and potential is -0.00202739
+Inner rot permitted, Branch T is 4060
+Enter Step-opt step
+No.81 Relative MinConfigNum in inner loop and potential is -0.00519444
+Inner rot forbidden!!, T is 4100
+Out random rot forbidden!! T is 4110
+Out random rot forbidden!! T is 4120
+Out random rot forbidden!! T is 4130
+Out random rot forbidden!! T is 4140
+Out random rot forbidden!! T is 4150
+Out random rot forbidden!! T is 4160
+Out random rot forbidden!! T is 4170
+Out random rot forbidden!! T is 4180
+Out random rot forbidden!! T is 4190
+Out random rot forbidden!! T is 4200
+Out random rot forbidden!! T is 4210
+Out random rot forbidden!! T is 4220
+Out random rot forbidden!! T is 4230
+Out random rot forbidden!! T is 4240
+Out random rot forbidden!! T is 4250
+Out random rot forbidden!! T is 4260
+Out random rot forbidden!! T is 4270
+Out random rot forbidden!! T is 4280
+Out random rot forbidden!! T is 4290
+Out random rot forbidden!! T is 4300
+Out random rot forbidden!! T is 4310
+Out random rot forbidden!! T is 4320
+Out random rot forbidden!! T is 4330
+Out random rot forbidden!! T is 4340
+Out random rot forbidden!! T is 4350
+Out random rot forbidden!! T is 4360
+Out random rot forbidden!! T is 4370
+Out random rot forbidden!! T is 4380
+Out random rot forbidden!! T is 4390
+Out random rot forbidden!! T is 4400
+Out random rot forbidden!! T is 4410
+Out random rot forbidden!! T is 4420
+Out random rot forbidden!! T is 4430
+Out random rot forbidden!! T is 4440
+Out random rot forbidden!! T is 4450
+Out random rot forbidden!! T is 4460
+Out random rot forbidden!! T is 4470
+Out random rot forbidden!! T is 4480
+Out random rot forbidden!! T is 4490
+Out random rot forbidden!! T is 4500
+Out random rot forbidden!! T is 4510
+Out random rot forbidden!! T is 4520
+Out random rot forbidden!! T is 4530
+Out random rot forbidden!! T is 4540
+Out random rot forbidden!! T is 4550
+Out random rot forbidden!! T is 4560
+Out random rot forbidden!! T is 4570
+Out random rot forbidden!! T is 4580
+Out random rot forbidden!! T is 4590
+Out random rot forbidden!! T is 4600
+Out random rot forbidden!! T is 4610
+Out random rot forbidden!! T is 4620
+Out random rot forbidden!! T is 4630
+Out random rot forbidden!! T is 4640
+Out random rot forbidden!! T is 4650
+Out random rot forbidden!! T is 4660
+Out random rot forbidden!! T is 4670
+Out random rot forbidden!! T is 4680
+Out rot permitted!, T is 4690
+Enter Step-opt step
+No.82 Relative MinConfig in outer loop and potential is -0.00173707
+Inner rot forbidden!!, T is 4690
+Out random rot forbidden!! T is 4700
+Out random rot forbidden!! T is 4710
+Out random rot forbidden!! T is 4720
+Out random rot forbidden!! T is 4730
+Out random rot forbidden!! T is 4740
+Out random rot forbidden!! T is 4750
+Out random rot forbidden!! T is 4760
+Out random rot forbidden!! T is 4770
+Out random rot forbidden!! T is 4780
+Out random rot forbidden!! T is 4790
+Out random rot forbidden!! T is 4800
+Out random rot forbidden!! T is 4810
+Out random rot forbidden!! T is 4820
+Out random rot forbidden!! T is 4830
+Out random rot forbidden!! T is 4840
+Out random rot forbidden!! T is 4850
+Out random rot forbidden!! T is 4860
+Out random rot forbidden!! T is 4870
+Out random rot forbidden!! T is 4880
+Out random rot forbidden!! T is 4890
+Out random rot forbidden!! T is 4900
+Out random rot forbidden!! T is 4910
+Out random rot forbidden!! T is 4920
+Out random rot forbidden!! T is 4930
+Out random rot forbidden!! T is 4940
+Out random rot forbidden!! T is 4950
+Out random rot forbidden!! T is 4960
+Out random rot forbidden!! T is 4970
+Out random rot forbidden!! T is 4980
+Out random rot forbidden!! T is 4990
+Out random rot forbidden!! T is 5000
+Out random rot forbidden!! T is 5010
+Out random rot forbidden!! T is 5020
+Out random rot forbidden!! T is 5030
+Out random rot forbidden!! T is 5040
+Out random rot forbidden!! T is 5050
+Out random rot forbidden!! T is 5060
+Out random rot forbidden!! T is 5070
+Out random rot forbidden!! T is 5080
+Out random rot forbidden!! T is 5090
+Out random rot forbidden!! T is 5100
+Out random rot forbidden!! T is 5110
+Out random rot forbidden!! T is 5120
+Out random rot forbidden!! T is 5130
+Out random rot forbidden!! T is 5140
+Out random rot forbidden!! T is 5150
+Out random rot forbidden!! T is 5160
+Out random rot forbidden!! T is 5170
+Out random rot forbidden!! T is 5180
+Out random rot forbidden!! T is 5190
+Out random rot forbidden!! T is 5200
+Out random rot forbidden!! T is 5210
+Out random rot forbidden!! T is 5220
+Out random rot forbidden!! T is 5230
+Out random rot forbidden!! T is 5240
+Out random rot forbidden!! T is 5250
+Out random rot forbidden!! T is 5260
+Out random rot forbidden!! T is 5270
+Out random rot forbidden!! T is 5280
+Out random rot forbidden!! T is 5290
+Out random rot forbidden!! T is 5300
+Out random rot forbidden!! T is 5310
+Out random rot forbidden!! T is 5320
+Out random rot forbidden!! T is 5330
+Out random rot forbidden!! T is 5340
+Out random rot forbidden!! T is 5350
+Out random rot forbidden!! T is 5360
+Out random rot forbidden!! T is 5370
+Out random rot forbidden!! T is 5380
+Out random rot forbidden!! T is 5390
+Out random rot forbidden!! T is 5400
+Out random rot forbidden!! T is 5410
+Out random rot forbidden!! T is 5420
+Out random rot forbidden!! T is 5430
+Out random rot forbidden!! T is 5440
+Out random rot forbidden!! T is 5450
+Out random rot forbidden!! T is 5460
+Out random rot forbidden!! T is 5470
+Out random rot forbidden!! T is 5480
+Out rot permitted!, T is 5490
+Enter Step-opt step
+No.83 Relative MinConfig in outer loop and potential is -0.0120937
+Inner rot permitted, Branch T is 5470
+Enter Step-opt step
+No.84 Relative MinConfigNum in inner loop and potential is -0.0038055
+Inner rot permitted, Branch T is 5450
+Enter Step-opt step
+No.85 Relative MinConfigNum in inner loop and potential is -0.0037655
+Inner rot forbidden!!, T is 5490
+Out rot permitted!, T is 5500
+Enter Step-opt step
+No.86 Relative MinConfig in outer loop and potential is 0.000503832
+Inner rot permitted, Branch T is 5480
+Enter Step-opt step
+No.87 Relative MinConfigNum in inner loop and potential is 0.000709814
+Inner rot permitted, Branch T is 5460
+Enter Step-opt step
+No.88 Relative MinConfigNum in inner loop and potential is -0.00162259
+Inner rot permitted, Branch T is 5440
+Enter Step-opt step
+No.89 Relative MinConfigNum in inner loop and potential is 0.000800892
+Inner rot permitted, Branch T is 5420
+Enter Step-opt step
+No.90 Relative MinConfigNum in inner loop and potential is 0.000764119
+Inner rot permitted, Branch T is 5400
+Enter Step-opt step
+No.91 Relative MinConfigNum in inner loop and potential is -0.00307077
+Inner rot permitted, Branch T is 5380
+Enter Step-opt step
+No.92 Relative MinConfigNum in inner loop and potential is -0.00301151
+Inner rot permitted, Branch T is 5360
+Enter Step-opt step
+No.93 Relative MinConfigNum in inner loop and potential is -0.00816882
+Inner rot forbidden!!, T is 5500
+Out random rot forbidden!! T is 5510
+Out random rot forbidden!! T is 5520
+Out random rot forbidden!! T is 5530
+Out random rot forbidden!! T is 5540
+Out random rot forbidden!! T is 5550
+Out random rot forbidden!! T is 5560
+Out random rot forbidden!! T is 5570
+Out random rot forbidden!! T is 5580
+Out random rot forbidden!! T is 5590
+Out random rot forbidden!! T is 5600
+Out random rot forbidden!! T is 5610
+Out random rot forbidden!! T is 5620
+Out random rot forbidden!! T is 5630
+Out rot permitted!, T is 5640
+Enter Step-opt step
+No.94 Relative MinConfig in outer loop and potential is 0.00342116
+Inner rot permitted, Branch T is 5620
+Enter Step-opt step
+No.95 Relative MinConfigNum in inner loop and potential is 0.00408957
+Inner rot permitted, Branch T is 5600
+Enter Step-opt step
+No.96 Relative MinConfigNum in inner loop and potential is 0.000816908
+Inner rot permitted, Branch T is 5580
+Enter Step-opt step
+No.97 Relative MinConfigNum in inner loop and potential is -0.000171405
+Inner rot permitted, Branch T is 5560
+Enter Step-opt step
+No.98 Relative MinConfigNum in inner loop and potential is -0.00189008
+Inner rot permitted, Branch T is 5540
+Enter Step-opt step
+No.99 Relative MinConfigNum in inner loop and potential is -0.00466219
+Inner rot permitted, Branch T is 5520
+Enter Step-opt step
+No.100 Relative MinConfigNum in inner loop and potential is -0.00226142
+Inner rot permitted, Branch T is 5500
+Enter Step-opt step
+No.101 Relative MinConfigNum in inner loop and potential is -0.000572597
+Inner rot permitted, Branch T is 5480
+Enter Step-opt step
+No.102 Relative MinConfigNum in inner loop and potential is -0.00532005
+Inner rot permitted, Branch T is 5460
+Enter Step-opt step
+No.103 Relative MinConfigNum in inner loop and potential is -0.0132967
+Inner rot forbidden!!, T is 5640
+Out random rot forbidden!! T is 5650
+Out random rot forbidden!! T is 5660
+Out random rot forbidden!! T is 5670
+Out random rot forbidden!! T is 5680
+Out random rot forbidden!! T is 5690
+Out random rot forbidden!! T is 5700
+Out random rot forbidden!! T is 5710
+Out random rot forbidden!! T is 5720
+Out random rot forbidden!! T is 5730
+Out random rot forbidden!! T is 5740
+Out random rot forbidden!! T is 5750
+Out random rot forbidden!! T is 5760
+Out random rot forbidden!! T is 5770
+Out random rot forbidden!! T is 5780
+Out random rot forbidden!! T is 5790
+Out random rot forbidden!! T is 5800
+Out random rot forbidden!! T is 5810
+Out random rot forbidden!! T is 5820
+Out random rot forbidden!! T is 5830
+Out random rot forbidden!! T is 5840
+Out random rot forbidden!! T is 5850
+Out rot permitted!, T is 5860
+Enter Step-opt step
+No.104 Relative MinConfig in outer loop and potential is -0.00665236
+Inner rot forbidden!!, T is 5860
+Out random rot forbidden!! T is 5870
+Out random rot forbidden!! T is 5880
+Out random rot forbidden!! T is 5890
+Out random rot forbidden!! T is 5900
+Out random rot forbidden!! T is 5910
+Out random rot forbidden!! T is 5920
+Out random rot forbidden!! T is 5930
+Out random rot forbidden!! T is 5940
+Out random rot forbidden!! T is 5950
+Out rot permitted!, T is 5960
+Enter Step-opt step
+No.105 Relative MinConfig in outer loop and potential is -0.00199856
+Inner rot permitted, Branch T is 5940
+Enter Step-opt step
+No.106 Relative MinConfigNum in inner loop and potential is -0.00655901
+Inner rot permitted, Branch T is 5920
+Enter Step-opt step
+No.107 Relative MinConfigNum in inner loop and potential is -0.00342391
+Inner rot forbidden!!, T is 5960
+Out random rot forbidden!! T is 5970
+Out random rot forbidden!! T is 5980
+Out random rot forbidden!! T is 5990
+Out random rot forbidden!! T is 6000
+Out random rot forbidden!! T is 6010
+Out random rot forbidden!! T is 6020
+Out random rot forbidden!! T is 6030
+Out random rot forbidden!! T is 6040
+Out random rot forbidden!! T is 6050
+Out random rot forbidden!! T is 6060
+Out random rot forbidden!! T is 6070
+Out random rot forbidden!! T is 6080
+Out random rot forbidden!! T is 6090
+Out random rot forbidden!! T is 6100
+Out random rot forbidden!! T is 6110
+Out random rot forbidden!! T is 6120
+Out random rot forbidden!! T is 6130
+Out random rot forbidden!! T is 6140
+Out random rot forbidden!! T is 6150
+Out random rot forbidden!! T is 6160
+Out random rot forbidden!! T is 6170
+Out random rot forbidden!! T is 6180
+Out random rot forbidden!! T is 6190
+Out random rot forbidden!! T is 6200
+Out random rot forbidden!! T is 6210
+Out random rot forbidden!! T is 6220
+Out random rot forbidden!! T is 6230
+Out random rot forbidden!! T is 6240
+Out random rot forbidden!! T is 6250
+Out random rot forbidden!! T is 6260
+Out random rot forbidden!! T is 6270
+Out random rot forbidden!! T is 6280
+Out random rot forbidden!! T is 6290
+Out random rot forbidden!! T is 6300
+Out random rot forbidden!! T is 6310
+Out random rot forbidden!! T is 6320
+Out random rot forbidden!! T is 6330
+Out random rot forbidden!! T is 6340
+Out random rot forbidden!! T is 6350
+Out random rot forbidden!! T is 6360
+Out random rot forbidden!! T is 6370
+Out random rot forbidden!! T is 6380
+Out random rot forbidden!! T is 6390
+Out random rot forbidden!! T is 6400
+Out random rot forbidden!! T is 6410
+Out random rot forbidden!! T is 6420
+Out random rot forbidden!! T is 6430
+Out random rot forbidden!! T is 6440
+Out random rot forbidden!! T is 6450
+Out random rot forbidden!! T is 6460
+Out rot permitted!, T is 6470
+Enter Step-opt step
+No.108 Relative MinConfig in outer loop and potential is -0.00435324
+Inner rot forbidden!!, T is 6470
+Out random rot forbidden!! T is 6480
+Out random rot forbidden!! T is 6490
+Out random rot forbidden!! T is 6500
+Out random rot forbidden!! T is 6510
+Out random rot forbidden!! T is 6520
+Out random rot forbidden!! T is 6530
+Out random rot forbidden!! T is 6540
+Out random rot forbidden!! T is 6550
+Out random rot forbidden!! T is 6560
+Out random rot forbidden!! T is 6570
+Out random rot forbidden!! T is 6580
+Out random rot forbidden!! T is 6590
+Out random rot forbidden!! T is 6600
+Out random rot forbidden!! T is 6610
+Out random rot forbidden!! T is 6620
+Out random rot forbidden!! T is 6630
+Out random rot forbidden!! T is 6640
+Out random rot forbidden!! T is 6650
+Out random rot forbidden!! T is 6660
+Out random rot forbidden!! T is 6670
+Out random rot forbidden!! T is 6680
+Out random rot forbidden!! T is 6690
+Out random rot forbidden!! T is 6700
+Out random rot forbidden!! T is 6710
+Out random rot forbidden!! T is 6720
+Out random rot forbidden!! T is 6730
+Out random rot forbidden!! T is 6740
+Out random rot forbidden!! T is 6750
+Out random rot forbidden!! T is 6760
+Out random rot forbidden!! T is 6770
+Out random rot forbidden!! T is 6780
+Out random rot forbidden!! T is 6790
+Out random rot forbidden!! T is 6800
+Out random rot forbidden!! T is 6810
+Out random rot forbidden!! T is 6820
+Out random rot forbidden!! T is 6830
+Out random rot forbidden!! T is 6840
+Out random rot forbidden!! T is 6850
+Out random rot forbidden!! T is 6860
+Out random rot forbidden!! T is 6870
+Out random rot forbidden!! T is 6880
+Out random rot forbidden!! T is 6890
+Out random rot forbidden!! T is 6900
+Out random rot forbidden!! T is 6910
+Out random rot forbidden!! T is 6920
+Out random rot forbidden!! T is 6930
+Out random rot forbidden!! T is 6940
+Out random rot forbidden!! T is 6950
+Out random rot forbidden!! T is 6960
+Out rot permitted!, T is 6970
+Enter Step-opt step
+No.109 Relative MinConfig in outer loop and potential is -0.000800761
+Inner rot permitted, Branch T is 6950
+Enter Step-opt step
+No.110 Relative MinConfigNum in inner loop and potential is 0.00275275
+Inner rot permitted, Branch T is 6930
+Enter Step-opt step
+No.111 Relative MinConfigNum in inner loop and potential is -0.0018591
+Inner rot permitted, Branch T is 6910
+Enter Step-opt step
+No.112 Relative MinConfigNum in inner loop and potential is -0.001572
+Inner rot forbidden!!, T is 6970
+Out random rot forbidden!! T is 6980
+Out random rot forbidden!! T is 6990
+Out random rot forbidden!! T is 7000
+Out random rot forbidden!! T is 7010
+Out random rot forbidden!! T is 7020
+Out random rot forbidden!! T is 7030
+Out random rot forbidden!! T is 7040
+Out random rot forbidden!! T is 7050
+Out random rot forbidden!! T is 7060
+Out random rot forbidden!! T is 7070
+Out random rot forbidden!! T is 7080
+Out random rot forbidden!! T is 7090
+Out random rot forbidden!! T is 7100
+Out random rot forbidden!! T is 7110
+Out random rot forbidden!! T is 7120
+Out random rot forbidden!! T is 7130
+Out random rot forbidden!! T is 7140
+Out random rot forbidden!! T is 7150
+Out random rot forbidden!! T is 7160
+Out random rot forbidden!! T is 7170
+Out random rot forbidden!! T is 7180
+Out random rot forbidden!! T is 7190
+Out random rot forbidden!! T is 7200
+Out random rot forbidden!! T is 7210
+Out random rot forbidden!! T is 7220
+Out random rot forbidden!! T is 7230
+Out random rot forbidden!! T is 7240
+Out random rot forbidden!! T is 7250
+Out random rot forbidden!! T is 7260
+Out random rot forbidden!! T is 7270
+Out random rot forbidden!! T is 7280
+Out random rot forbidden!! T is 7290
+Out random rot forbidden!! T is 7300
+Out random rot forbidden!! T is 7310
+Out random rot forbidden!! T is 7320
+Out random rot forbidden!! T is 7330
+Out random rot forbidden!! T is 7340
+Out random rot forbidden!! T is 7350
+Out random rot forbidden!! T is 7360
+Out random rot forbidden!! T is 7370
+Out random rot forbidden!! T is 7380
+Out random rot forbidden!! T is 7390
+Out random rot forbidden!! T is 7400
+Out random rot forbidden!! T is 7410
+Out random rot forbidden!! T is 7420
+Out random rot forbidden!! T is 7430
+Out random rot forbidden!! T is 7440
+Out random rot forbidden!! T is 7450
+Out random rot forbidden!! T is 7460
+Out random rot forbidden!! T is 7470
+Out random rot forbidden!! T is 7480
+Out random rot forbidden!! T is 7490
+Out random rot forbidden!! T is 7500
+Out random rot forbidden!! T is 7510
+Out random rot forbidden!! T is 7520
+Out random rot forbidden!! T is 7530
+Out random rot forbidden!! T is 7540
+Out random rot forbidden!! T is 7550
+Out random rot forbidden!! T is 7560
+Out random rot forbidden!! T is 7570
+Out random rot forbidden!! T is 7580
+Out random rot forbidden!! T is 7590
+Out random rot forbidden!! T is 7600
+Out random rot forbidden!! T is 7610
+Out random rot forbidden!! T is 7620
+Out random rot forbidden!! T is 7630
+Out random rot forbidden!! T is 7640
+Out random rot forbidden!! T is 7650
+Out random rot forbidden!! T is 7660
+Out random rot forbidden!! T is 7670
+Out random rot forbidden!! T is 7680
+Out rot permitted!, T is 7690
+Enter Step-opt step
+No.113 Relative MinConfig in outer loop and potential is 0.00446931
+Inner rot permitted, Branch T is 7670
+Enter Step-opt step
+No.114 Relative MinConfigNum in inner loop and potential is -0.0111854
+Inner rot permitted, Branch T is 7650
+Enter Step-opt step
+No.115 Relative MinConfigNum in inner loop and potential is -0.00531548
+Inner rot forbidden!!, T is 7690
+Out rot permitted!, T is 7700
+Enter Step-opt step
+No.116 Relative MinConfig in outer loop and potential is -0.00117375
+Inner rot forbidden!!, T is 7700
+Out random rot forbidden!! T is 7710
+Out random rot forbidden!! T is 7720
+Out random rot forbidden!! T is 7730
+Out rot permitted!, T is 7740
+Enter Step-opt step
+No.117 Relative MinConfig in outer loop and potential is -0.00741594
+Inner rot permitted, Branch T is 7720
+Enter Step-opt step
+No.118 Relative MinConfigNum in inner loop and potential is -0.00577746
+Inner rot permitted, Branch T is 7700
+Enter Step-opt step
+No.119 Relative MinConfigNum in inner loop and potential is 0.00186085
+Inner rot permitted, Branch T is 7680
+Enter Step-opt step
+No.120 Relative MinConfigNum in inner loop and potential is 0.00199248
+Inner rot permitted, Branch T is 7660
+Enter Step-opt step
+No.121 Relative MinConfigNum in inner loop and potential is -0.00459218
+Inner rot permitted, Branch T is 7640
+Enter Step-opt step
+No.122 Relative MinConfigNum in inner loop and potential is -0.00307131
+Inner rot permitted, Branch T is 7620
+Enter Step-opt step
+No.123 Relative MinConfigNum in inner loop and potential is 0.00152528
+Inner rot permitted, Branch T is 7600
+Enter Step-opt step
+No.124 Relative MinConfigNum in inner loop and potential is -0.00083287
+Inner rot permitted, Branch T is 7580
+Enter Step-opt step
+No.125 Relative MinConfigNum in inner loop and potential is -0.00685333
+Inner rot permitted, Branch T is 7560
+Enter Step-opt step
+No.126 Relative MinConfigNum in inner loop and potential is -0.00415415
+Inner rot forbidden!!, T is 7740
+Out random rot forbidden!! T is 7750
+Out random rot forbidden!! T is 7760
+Out random rot forbidden!! T is 7770
+Out random rot forbidden!! T is 7780
+Out random rot forbidden!! T is 7790
+Out random rot forbidden!! T is 7800
+Out random rot forbidden!! T is 7810
+Out random rot forbidden!! T is 7820
+Out random rot forbidden!! T is 7830
+Out random rot forbidden!! T is 7840
+Out random rot forbidden!! T is 7850
+Out random rot forbidden!! T is 7860
+Out random rot forbidden!! T is 7870
+Out random rot forbidden!! T is 7880
+Out random rot forbidden!! T is 7890
+Out random rot forbidden!! T is 7900
+Out random rot forbidden!! T is 7910
+Out random rot forbidden!! T is 7920
+Out random rot forbidden!! T is 7930
+Out random rot forbidden!! T is 7940
+Out random rot forbidden!! T is 7950
+Out random rot forbidden!! T is 7960
+Out random rot forbidden!! T is 7970
+Out random rot forbidden!! T is 7980
+Out random rot forbidden!! T is 7990
+Out random rot forbidden!! T is 8000
+Out random rot forbidden!! T is 8010
+Out random rot forbidden!! T is 8020
+Out random rot forbidden!! T is 8030
+Out random rot forbidden!! T is 8040
+Out random rot forbidden!! T is 8050
+Out random rot forbidden!! T is 8060
+Out random rot forbidden!! T is 8070
+Out random rot forbidden!! T is 8080
+Out random rot forbidden!! T is 8090
+Out random rot forbidden!! T is 8100
+Out random rot forbidden!! T is 8110
+Out random rot forbidden!! T is 8120
+Out random rot forbidden!! T is 8130
+Out random rot forbidden!! T is 8140
+Out random rot forbidden!! T is 8150
+Out random rot forbidden!! T is 8160
+Out random rot forbidden!! T is 8170
+Out random rot forbidden!! T is 8180
+Out random rot forbidden!! T is 8190
+Out random rot forbidden!! T is 8200
+Out random rot forbidden!! T is 8210
+Out random rot forbidden!! T is 8220
+Out random rot forbidden!! T is 8230
+Out random rot forbidden!! T is 8240
+Out random rot forbidden!! T is 8250
+Out random rot forbidden!! T is 8260
+Out random rot forbidden!! T is 8270
+Out random rot forbidden!! T is 8280
+Out random rot forbidden!! T is 8290
+Out random rot forbidden!! T is 8300
+Out random rot forbidden!! T is 8310
+Out random rot forbidden!! T is 8320
+Out random rot forbidden!! T is 8330
+Out random rot forbidden!! T is 8340
+Out random rot forbidden!! T is 8350
+Out random rot forbidden!! T is 8360
+Out random rot forbidden!! T is 8370
+Out random rot forbidden!! T is 8380
+Out random rot forbidden!! T is 8390
+Out random rot forbidden!! T is 8400
+Out random rot forbidden!! T is 8410
+Out random rot forbidden!! T is 8420
+Out random rot forbidden!! T is 8430
+Out random rot forbidden!! T is 8440
+Out random rot forbidden!! T is 8450
+Out random rot forbidden!! T is 8460
+Out random rot forbidden!! T is 8470
+Out random rot forbidden!! T is 8480
+Out random rot forbidden!! T is 8490
+Out random rot forbidden!! T is 8500
+Out random rot forbidden!! T is 8510
+Out random rot forbidden!! T is 8520
+Out random rot forbidden!! T is 8530
+Out random rot forbidden!! T is 8540
+Out random rot forbidden!! T is 8550
+Out random rot forbidden!! T is 8560
+Out random rot forbidden!! T is 8570
+Out random rot forbidden!! T is 8580
+Out random rot forbidden!! T is 8590
+Out random rot forbidden!! T is 8600
+Out random rot forbidden!! T is 8610
+Out random rot forbidden!! T is 8620
+Out random rot forbidden!! T is 8630
+Out random rot forbidden!! T is 8640
+Out random rot forbidden!! T is 8650
+Out random rot forbidden!! T is 8660
+Out random rot forbidden!! T is 8670
+Out random rot forbidden!! T is 8680
+Out random rot forbidden!! T is 8690
+Out random rot forbidden!! T is 8700
+Out random rot forbidden!! T is 8710
+Out random rot forbidden!! T is 8720
+Out random rot forbidden!! T is 8730
+Out random rot forbidden!! T is 8740
+Out random rot forbidden!! T is 8750
+Out random rot forbidden!! T is 8760
+Out random rot forbidden!! T is 8770
+Out random rot forbidden!! T is 8780
+Out random rot forbidden!! T is 8790
+Out random rot forbidden!! T is 8800
+Out random rot forbidden!! T is 8810
+Out random rot forbidden!! T is 8820
+Out random rot forbidden!! T is 8830
+Out random rot forbidden!! T is 8840
+Out random rot forbidden!! T is 8850
+Out rot permitted!, T is 8860
+Enter Step-opt step
+No.127 Relative MinConfig in outer loop and potential is 0.0037239
+Inner rot permitted, Branch T is 8840
+Enter Step-opt step
+No.128 Relative MinConfigNum in inner loop and potential is -0.00152735
+Inner rot permitted, Branch T is 8820
+Enter Step-opt step
+No.129 Relative MinConfigNum in inner loop and potential is 0.00026266
+Inner rot permitted, Branch T is 8800
+Enter Step-opt step
+No.130 Relative MinConfigNum in inner loop and potential is 0.000404863
+Inner rot permitted, Branch T is 8780
+Enter Step-opt step
+No.131 Relative MinConfigNum in inner loop and potential is 0.00131027
+Inner rot permitted, Branch T is 8760
+Enter Step-opt step
+No.132 Relative MinConfigNum in inner loop and potential is 0.00044844
+Inner rot permitted, Branch T is 8740
+Enter Step-opt step
+No.133 Relative MinConfigNum in inner loop and potential is -0.000308157
+Inner rot permitted, Branch T is 8720
+Enter Step-opt step
+No.134 Relative MinConfigNum in inner loop and potential is 0.000565177
+Inner rot permitted, Branch T is 8700
+Enter Step-opt step
+No.135 Relative MinConfigNum in inner loop and potential is -0.00331703
+Inner rot permitted, Branch T is 8680
+Enter Step-opt step
+No.136 Relative MinConfigNum in inner loop and potential is -0.00167292
+Inner rot permitted, Branch T is 8660
+Enter Step-opt step
+No.137 Relative MinConfigNum in inner loop and potential is -0.00119163
+Inner rot permitted, Branch T is 8640
+Enter Step-opt step
+No.138 Relative MinConfigNum in inner loop and potential is 0.000435199
+Inner rot permitted, Branch T is 8620
+Enter Step-opt step
+No.139 Relative MinConfigNum in inner loop and potential is -0.0106611
+Inner rot permitted, Branch T is 8600
+Enter Step-opt step
+No.140 Relative MinConfigNum in inner loop and potential is -0.00354568
+Inner rot permitted, Branch T is 8580
+Enter Step-opt step
+No.141 Relative MinConfigNum in inner loop and potential is -0.00726563
+Inner rot permitted, Branch T is 8560
+Enter Step-opt step
