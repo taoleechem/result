@@ -1,0 +1,8 @@
+chooh-pair-2-s.xyz
+chooh-pair.xyz
+
+4
+0.1
+10000
+10
+10
