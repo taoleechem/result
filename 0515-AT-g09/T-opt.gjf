@@ -1,11 +1,3 @@
-%nprocshared=8
-%mem=8GB
-%chk=C:\Users\Tao\Documents\GitHub\result\0515-AT-g09\T-opt.chk
-# opt b3lyp/6-31g geom=connectivity
-
-Title Card Required
-
-0 1
  C                  2.63901400   -0.72801700    0.00001100
  C                  1.15524300   -0.49595400   -0.00006900
  H                  3.10635600   -0.26760300    0.87808200
